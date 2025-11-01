@@ -1,4 +1,4 @@
-[العربي](./06-data-engineering_ar.md)
+[العربي](./data-engineering_ar.md)
 
 # <a name="-6-data-engineering"></a>📊 Chapter 6: Data Engineering
 
@@ -91,4 +91,4 @@ Project: Build a nightly pipeline to collect sales data from the application's d
 
 </details>
 
-[⬆️ Back to Table of Contents](README.md)
+[⬆️ Back to Table of Contents](../README.md)

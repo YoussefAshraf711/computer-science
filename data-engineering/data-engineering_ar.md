@@ -1,4 +1,4 @@
-[English](./06-data-engineering.md)
+[English](./data-engineering.md)
 
 # <a name="-6-هندسة-البيانات-data-engineering"></a>📊 الفصل 6: هندسة البيانات (Data Engineering)
 
@@ -101,4 +101,4 @@
 
 </details>
 
-[⬆️ العودة إلى الفهرس](README_AR.md)
+[⬆️ العودة إلى الفهرس](../README_ar.md)
