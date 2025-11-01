@@ -1,4 +1,4 @@
-[English](./08-data-science.md)
+[English](./data-science.md)
 
 # <a name="-8-علم-البيانات-data-science"></a>🔬 الفصل 8: علم البيانات (Data Science)
 
@@ -113,4 +113,4 @@
 
 </details>
 
-[⬆️ العودة إلى الفهرس](README_AR.md)
+[⬆️ العودة إلى الفهرس](../README_ar.md)

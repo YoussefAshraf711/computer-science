@@ -1,4 +1,4 @@
-[العربي](./08-data-science_ar.md)
+[العربي](./data-science_ar.md)
 
 # <a name="-8-data-science"></a>🔬 Chapter 8: Data Science
 
@@ -99,5 +99,5 @@ Project: Build a model to predict customer churn.
 
 </details>
 
-[⬆️ Back to Table of Contents](README.md)
+[⬆️ Back to Table of Contents](../README.md)
 
