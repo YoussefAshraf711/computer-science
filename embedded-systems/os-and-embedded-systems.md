@@ -1,4 +1,4 @@
-[العربي](./15-os-and-embedded-systems_ar.md)
+[العربي](./os-and-embedded-systems_ar.md)
 
 # <a name="-15-os--embedded-systems"></a>💻 Chapter 15: OS & Embedded Systems
 
@@ -104,5 +104,5 @@ Hardware: ESP32 microcontroller, DHT11 temperature sensor, and a Relay module to
 
 </details>
 
-[⬆️ Back to Table of Contents](README.md)
+[⬆️ Back to Table of Contents](../README.md)
 

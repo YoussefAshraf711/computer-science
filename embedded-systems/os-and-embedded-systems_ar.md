@@ -1,4 +1,4 @@
-[English](./15-os-and-embedded-systems.md)
+[English](./os-and-embedded-systems.md)
 
 # <a name="-15-أنظمة-التشغيل-والأنظمة-المدمجة-os--embedded-systems"></a>💻 الفصل 15: أنظمة التشغيل والأنظمة المدمجة (OS & Embedded Systems)
 
@@ -115,4 +115,4 @@
 
 </details>
 
-[⬆️ العودة إلى الفهرس](README_AR.md)
+[⬆️ العودة إلى الفهرس](../README_ar.md)
