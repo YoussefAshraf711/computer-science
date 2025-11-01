@@ -9,39 +9,40 @@ Game Development is the art and science of creating video games. It is a multifa
 ## 2. What does the specialist do?
 
 A Game Developer, specifically a Gameplay Programmer, is the one who writes the code that defines the game's rules, logic, and interactions. Their tasks include:
- * Programming game mechanics: Writing code for character movement, shooting, jumping, and interacting with the environment.
- * Artificial Intelligence (AI): Programming the behavior of enemies and non-playable characters (NPCs).
- * Physics: Implementing a physics system to simulate gravity, collisions, and forces.
- * User Interface (UI): Programming menus, heads-up displays (HUD), and score screens.
- * Integrating game components: Ensuring that programming, graphics, and sounds work together harmoniously within the "game engine."
+
+* Programming game mechanics: Writing code for character movement, shooting, jumping, and interacting with the environment.
+* Artificial Intelligence (AI): Programming the behavior of enemies and non-playable characters (NPCs).
+* Physics: Implementing a physics system to simulate gravity, collisions, and forces.
+* User Interface (UI): Programming menus, heads-up displays (HUD), and score screens.
+* Integrating game components: Ensuring that programming, graphics, and sounds work together harmoniously within the "game engine."
 
 ## 3. Sub-domains
 
- * Gameplay Programmer: Focuses on the core game logic and player experience.
- * Graphics Programmer: Works on the rendering engine, lighting, shadows, and visual effects. This is a very complex specialization that relies heavily on mathematics.
- * AI Programmer: Specializes in making game characters appear intelligent and realistic.
- * Network Programmer: Specializes in building online multiplayer games.
- * Tools Programmer: Builds custom tools within the game engine to help designers and artists build the game more easily.
+* Gameplay Programmer: Focuses on the core game logic and player experience.
+* Graphics Programmer: Works on the rendering engine, lighting, shadows, and visual effects. This is a very complex specialization that relies heavily on mathematics.
+* AI Programmer: Specializes in making game characters appear intelligent and realistic.
+* Network Programmer: Specializes in building online multiplayer games.
+* Tools Programmer: Builds custom tools within the game engine to help designers and artists build the game more easily.
 
 ## 4. Expanded Key Concepts
 
- * `Game Engine`: The core software that provides an integrated framework for building games. It offers ready-made services like graphics rendering, a physics engine, sound, and scripting.
- * `Game Loop`: The infinite loop that runs at the heart of every game. In each "frame," it performs three main tasks:
+* `Game Engine`: The core software that provides an integrated framework for building games. It offers ready-made services like graphics rendering, a physics engine, sound, and scripting.
+* `Game Loop`: The infinite loop that runs at the heart of every game. In each "frame," it performs three main tasks:
      1. Process Input: Reading player commands from the keyboard, mouse, or controller.
      2. Update Game State: Moving characters, updating scores, applying physics.
      3. Render: Drawing everything on the screen.
- * `Physics Engine`: A subsystem within the game engine responsible for simulating physical laws like gravity, friction, and collision detection.
- * `Assets`: All non-code resources used in the game: 3D Models, 2D Sprites, sound files, music, and fonts.
- * `Shader`: A small program that runs directly on the graphics processing unit (GPU) to control how each pixel is drawn on the screen (e.g., how light interacts with a water or metal surface).
- * `AI Pathfinding`: Algorithms (like A*) used by AI to find the shortest or best path for a character to get from one point to another, avoiding obstacles.
+* `Physics Engine`: A subsystem within the game engine responsible for simulating physical laws like gravity, friction, and collision detection.
+* `Assets`: All non-code resources used in the game: 3D Models, 2D Sprites, sound files, music, and fonts.
+* `Shader`: A small program that runs directly on the graphics processing unit (GPU) to control how each pixel is drawn on the screen (e.g., how light interacts with a water or metal surface).
+* `AI Pathfinding`: Algorithms (like A*) used by AI to find the shortest or best path for a character to get from one point to another, avoiding obstacles.
 
 ## 5. Expanded Tools & Technologies
 
- * Game Engines: Unity (using C#), Unreal Engine (using C++ and Blueprints system), Godot (free and open-source).
- * Programming Languages: C++ (for high performance in engines like Unreal), C# (the language of the Unity engine), Python or Lua (sometimes used for scripting).
- * Graphics APIs: DirectX (for Windows and Xbox), OpenGL (cross-platform), Vulkan (modern and low-level), Metal (for Apple devices).
- * 3D Modeling Software: Blender (free), Maya, 3ds Max.
- * Version Control: Git LFS (for handling large files), Perforce (common in large studios).
+* Game Engines: Unity (using C#), Unreal Engine (using C++ and Blueprints system), Godot (free and open-source).
+* Programming Languages: C++ (for high performance in engines like Unreal), C# (the language of the Unity engine), Python or Lua (sometimes used for scripting).
+* Graphics APIs: DirectX (for Windows and Xbox), OpenGL (cross-platform), Vulkan (modern and low-level), Metal (for Apple devices).
+* 3D Modeling Software: Blender (free), Maya, 3ds Max.
+* Version Control: Git LFS (for handling large files), Perforce (common in large studios).
 
 ## 6. In-Depth Workflow
 
@@ -64,13 +65,14 @@ Engine: Unity.
 
 ## 7. Common Job Roles
 
- * Gameplay Programmer
- * Graphics Programmer
- * AI Programmer
- * Tools Programmer
- * Technical Artist: A bridge between artists and programmers.
+* Gameplay Programmer
+* Graphics Programmer
+* AI Programmer
+* Tools Programmer
+* Technical Artist: A bridge between artists and programmers.
 
 ## 8. A-Z Glossary
+
 <details>
 <summary>Click to expand/collapse the glossary</summary>
 
@@ -106,3 +108,4 @@ Engine: Unity.
 </details>
 
 [⬆️ Back to Table of Contents](README.md)
+

@@ -5,44 +5,45 @@
 ## 1. What is it?
 
 This chapter covers two interconnected fields:
- * Operating Systems (OS): The core software that acts as an intermediary between computer hardware and the user/applications. It manages all the device's resources (processor, memory, storage) and provides a stable platform for all other programs to run on.
-     * Best Analogy: The OS is the "government" and "civil infrastructure" of the country (the computer), managing resources and providing essential services.
- * Embedded Systems: Specialized computer systems—a combination of hardware and software—designed to perform a single, specific function within a larger mechanical or electrical system.
-     * Best Analogy: It's the small, dedicated computer inside your microwave, or the engine control unit in your car.
+
+* Operating Systems (OS): The core software that acts as an intermediary between computer hardware and the user/applications. It manages all the device's resources (processor, memory, storage) and provides a stable platform for all other programs to run on.
+  * Best Analogy: The OS is the "government" and "civil infrastructure" of the country (the computer), managing resources and providing essential services.
+* Embedded Systems: Specialized computer systems—a combination of hardware and software—designed to perform a single, specific function within a larger mechanical or electrical system.
+  * Best Analogy: It's the small, dedicated computer inside your microwave, or the engine control unit in your car.
 
 ## 2. What does the specialist do?
 
- * OS Engineer / Kernel Developer: A highly specialized software engineer who designs, builds, and maintains the "Kernel" of the operating system. They work with low-level programming languages (C, Assembly), manage hardware interactions, and focus on performance, stability, and security at the deepest level.
- * Embedded Systems Engineer: A hybrid engineer who works at the intersection of hardware and software. They write software for microcontrollers and resource-constrained devices, may design electronic circuits, and integrate software with physical components.
+* OS Engineer / Kernel Developer: A highly specialized software engineer who designs, builds, and maintains the "Kernel" of the operating system. They work with low-level programming languages (C, Assembly), manage hardware interactions, and focus on performance, stability, and security at the deepest level.
+* Embedded Systems Engineer: A hybrid engineer who works at the intersection of hardware and software. They write software for microcontrollers and resource-constrained devices, may design electronic circuits, and integrate software with physical components.
 
 ## 3. Sub-domains
 
- * Operating Systems: Kernel development, Driver development, Filesystem development, OS security.
- * Embedded Systems: Firmware development, Real-Time Operating Systems (RTOS), Internet of Things (IoT) devices, automotive software, robotics.
+* Operating Systems: Kernel development, Driver development, Filesystem development, OS security.
+* Embedded Systems: Firmware development, Real-Time Operating Systems (RTOS), Internet of Things (IoT) devices, automotive software, robotics.
 
 ## 4. Expanded Key Concepts
 
- * OS Concepts:
-     * `Kernel`: The heart of the OS. `Monolithic Kernel` (like Linux, all services in kernel space) vs. `Microkernel` (very small kernel, services in user space).
-     * `Process & Thread`: A "process" is a program in execution. A "thread" is a lightweight path of execution within a process.
-     * `Concurrency & Parallelism`: "Concurrency" is dealing with multiple tasks at the same time (can be on a single processor core). "Parallelism" is running multiple tasks at the same instant (requires multiple processor cores).
-     * `Scheduling`: The algorithm the kernel uses to decide which process or thread gets to use the CPU at any given time.
-     * `Memory Management`: How the OS allocates RAM to different processes. Includes concepts like Virtual Memory and Paging.
-     * `System Calls`: The interface through which user-space programs request services from the kernel (like opening a file).
- * Embedded Systems Concepts:
-     * `Microcontroller (MCU)` vs. `Microprocessor (MPU)`: An MCU is a small computer on a single chip with its own memory and storage (like Arduino). An MPU is just the processor and needs external components (like Raspberry Pi).
-     * `Real-Time Operating System (RTOS)`: An OS designed for systems that require timely and deterministic responses (like car brakes).
-     * `Firmware`: Software that is permanently programmed onto a hardware device.
-     * `Interrupts`: A signal from a hardware device to the processor, forcing it to stop its current task and handle the event (like a button press).
+* OS Concepts:
+  * `Kernel`: The heart of the OS. `Monolithic Kernel` (like Linux, all services in kernel space) vs. `Microkernel` (very small kernel, services in user space).
+  * `Process & Thread`: A "process" is a program in execution. A "thread" is a lightweight path of execution within a process.
+  * `Concurrency & Parallelism`: "Concurrency" is dealing with multiple tasks at the same time (can be on a single processor core). "Parallelism" is running multiple tasks at the same instant (requires multiple processor cores).
+  * `Scheduling`: The algorithm the kernel uses to decide which process or thread gets to use the CPU at any given time.
+  * `Memory Management`: How the OS allocates RAM to different processes. Includes concepts like Virtual Memory and Paging.
+  * `System Calls`: The interface through which user-space programs request services from the kernel (like opening a file).
+* Embedded Systems Concepts:
+  * `Microcontroller (MCU)` vs. `Microprocessor (MPU)`: An MCU is a small computer on a single chip with its own memory and storage (like Arduino). An MPU is just the processor and needs external components (like Raspberry Pi).
+  * `Real-Time Operating System (RTOS)`: An OS designed for systems that require timely and deterministic responses (like car brakes).
+  * `Firmware`: Software that is permanently programmed onto a hardware device.
+  * `Interrupts`: A signal from a hardware device to the processor, forcing it to stop its current task and handle the event (like a button press).
 
 ## 5. Expanded Tools & Technologies
 
- * OS Development: C, Assembly, Debuggers like GDB, Compilers like GCC.
- * Embedded Systems Development:
-     * Languages: C, C++, MicroPython.
-     * Hardware: Arduino, Raspberry Pi, ESP32.
-     * Communication Protocols: I2C, SPI, UART.
-     * Tools: PlatformIO (IDE), Oscilloscope, Logic Analyzer.
+* OS Development: C, Assembly, Debuggers like GDB, Compilers like GCC.
+* Embedded Systems Development:
+  * Languages: C, C++, MicroPython.
+  * Hardware: Arduino, Raspberry Pi, ESP32.
+  * Communication Protocols: I2C, SPI, UART.
+  * Tools: PlatformIO (IDE), Oscilloscope, Logic Analyzer.
 
 ## 6. In-Depth Workflow
 
@@ -65,13 +66,14 @@ Hardware: ESP32 microcontroller, DHT11 temperature sensor, and a Relay module to
 
 ## 7. Common Job Roles
 
- * Kernel Developer
- * Systems Engineer
- * Embedded Software Engineer
- * Firmware Engineer
- * Robotics Engineer
+* Kernel Developer
+* Systems Engineer
+* Embedded Software Engineer
+* Firmware Engineer
+* Robotics Engineer
 
 ## 8. A-Z Glossary
+
 <details>
 <summary>Click to expand/collapse the glossary</summary>
 
@@ -103,3 +105,4 @@ Hardware: ESP32 microcontroller, DHT11 temperature sensor, and a Relay module to
 </details>
 
 [⬆️ Back to Table of Contents](README.md)
+

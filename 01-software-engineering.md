@@ -7,70 +7,73 @@
 Software Engineering is the systematic engineering approach to software development. It is not just "writing code," but a complete discipline that applies scientific and engineering principles to the process of designing, developing, testing, deploying, and maintaining complex software and systems.
 
 The fundamental difference between "Programming" and "Software Engineering":
- * Programming: Can be an individual activity to solve a specific problem.
- * Software Engineering: Is an organized team effort to build a large-scale system that is maintainable and scalable over the long term, ensuring quality, security, and performance.
+
+* Programming: Can be an individual activity to solve a specific problem.
+* Software Engineering: Is an organized team effort to build a large-scale system that is maintainable and scalable over the long term, ensuring quality, security, and performance.
 
 ## 2. What does the specialist do?
 
 A Software Engineer is the "architect" and "builder" in the digital world. Their tasks go beyond writing code to include:
- * Translating business needs: Converting user or management requirements into clear technical specifications.
- * Making architectural decisions: Designing the overall System Architecture and choosing the appropriate technologies.
- * Writing clean and reliable code: Producing code that not only "works" but is also easy to read, maintain, and test by others.
- * Ensuring quality: Writing Automated Tests to ensure the program is free of Bugs.
- * Collaborating within a team: Using systems like Git to work with a team of developers on the same project.
- * Problem-solving: Analyzing complex problems and breaking them down into smaller, solvable parts.
- * Product ownership: Feeling a sense of responsibility for the product from its initial idea to its delivery to the user and subsequent maintenance.
+
+* Translating business needs: Converting user or management requirements into clear technical specifications.
+* Making architectural decisions: Designing the overall System Architecture and choosing the appropriate technologies.
+* Writing clean and reliable code: Producing code that not only "works" but is also easy to read, maintain, and test by others.
+* Ensuring quality: Writing Automated Tests to ensure the program is free of Bugs.
+* Collaborating within a team: Using systems like Git to work with a team of developers on the same project.
+* Problem-solving: Analyzing complex problems and breaking them down into smaller, solvable parts.
+* Product ownership: Feeling a sense of responsibility for the product from its initial idea to its delivery to the user and subsequent maintenance.
 
 ## 3. Sub-domains
 
 Software Engineering is not a single field, but branches into many specializations:
- * Frontend Development: Building the part that the user interacts with directly in the browser (User Interface - UI).
- * Backend Development: Building the "brain" of the application that runs on the server (logic, databases, APIs).
- * Full-Stack Development: Working on both the frontend and backend.
- * Mobile Development: Building applications that run on iOS and Android systems.
- * Game Development: Building video games, which requires skills in Graphics and physics.
- * Embedded Systems Engineering: Programming smart devices with limited resources (like home appliances, cars, microcontrollers).
- * QA / Test Engineering: Specializing in building advanced automated testing systems to ensure product quality.
+
+* Frontend Development: Building the part that the user interacts with directly in the browser (User Interface - UI).
+* Backend Development: Building the "brain" of the application that runs on the server (logic, databases, APIs).
+* Full-Stack Development: Working on both the frontend and backend.
+* Mobile Development: Building applications that run on iOS and Android systems.
+* Game Development: Building video games, which requires skills in Graphics and physics.
+* Embedded Systems Engineering: Programming smart devices with limited resources (like home appliances, cars, microcontrollers).
+* QA / Test Engineering: Specializing in building advanced automated testing systems to ensure product quality.
 
 ## 4. Expanded Key Concepts
 
- * Software Development Life Cycle (SDLC) Models:
-     * `Waterfall`: A traditional, rigid model where each phase must be completed before the next begins (planning → design → implementation → testing → deployment). Not suitable for modern projects.
-     * `Agile`: A modern philosophy that focuses on Iterative development, delivering small parts of the product quickly, and adapting to change.
-     * `Scrum` & `Kanban`: The most famous frameworks for implementing Agile. Scrum is based on short work cycles (Sprints), while Kanban focuses on a continuous workflow.
+* Software Development Life Cycle (SDLC) Models:
+  * `Waterfall`: A traditional, rigid model where each phase must be completed before the next begins (planning → design → implementation → testing → deployment). Not suitable for modern projects.
+  * `Agile`: A modern philosophy that focuses on Iterative development, delivering small parts of the product quickly, and adapting to change.
+  * `Scrum` & `Kanban`: The most famous frameworks for implementing Agile. Scrum is based on short work cycles (Sprints), while Kanban focuses on a continuous workflow.
 
- * Architectural Patterns:
-     * `Monolith`: Building the application as a single, integrated unit. Easy at the start but difficult to maintain and scale.
-     * `Microservices`: Dividing the application into a set of small, independent services that communicate with each other. Easier to develop, scale, and maintain.
-     * `Client-Server`: The basic model for the web, where the client (browser) requests a service from the server.
-     * `MVC (Model-View-Controller)`: A common pattern for separating the presentation logic (View) from the data logic (Model) and control logic (Controller).
+* Architectural Patterns:
+  * `Monolith`: Building the application as a single, integrated unit. Easy at the start but difficult to maintain and scale.
+  * `Microservices`: Dividing the application into a set of small, independent services that communicate with each other. Easier to develop, scale, and maintain.
+  * `Client-Server`: The basic model for the web, where the client (browser) requests a service from the server.
+  * `MVC (Model-View-Controller)`: A common pattern for separating the presentation logic (View) from the data logic (Model) and control logic (Controller).
 
- * Design Principles:
-     * `SOLID`: Five fundamental principles in Object-Oriented Programming (OOP) to make code flexible and maintainable.
-     * `DRY (Don't Repeat Yourself)`: Don't repeat the same code. Put it in a Function and call it.
-     * `KISS (Keep It Simple, Stupid)`: Make the solution as simple as possible. Don't complicate things unnecessarily.
+* Design Principles:
+  * `SOLID`: Five fundamental principles in Object-Oriented Programming (OOP) to make code flexible and maintainable.
+  * `DRY (Don't Repeat Yourself)`: Don't repeat the same code. Put it in a Function and call it.
+  * `KISS (Keep It Simple, Stupid)`: Make the solution as simple as possible. Don't complicate things unnecessarily.
 
- * Programming Paradigms:
-     * `Object-Oriented (OOP)`: Organizing code around "Objects" that contain data and behavior.
-     * `Functional (FP)`: Organizing code around pure "Functions" that avoid changing state.
-     * `Procedural`: Organizing code as a series of commands and steps.
+* Programming Paradigms:
+  * `Object-Oriented (OOP)`: Organizing code around "Objects" that contain data and behavior.
+  * `Functional (FP)`: Organizing code around pure "Functions" that avoid changing state.
+  * `Procedural`: Organizing code as a series of commands and steps.
 
 ## 5. Expanded Tools & Technologies
 
- * Programming Languages:
-     * Java, C#: Powerful for large enterprise backend applications.
-     * Python: Excellent for backend applications, data science, and automation.
-     * JavaScript / TypeScript: The primary language for the web (Frontend & Backend).
-     * Go, Rust: Modern languages focused on high performance and concurrent systems.
-     * Kotlin, Swift: The primary languages for mobile development (Android & iOS).
- * Frameworks:
-     * Backend: Spring (Java), Django/Flask (Python), Node.js/Express (JS), .NET (C#).
-     * Frontend: React, Angular, Vue.js.
- * Databases:
-     * SQL: PostgreSQL, MySQL, SQL Server.
-     * NoSQL: MongoDB, Redis, Cassandra.
- * Version Control: Git (the tool), GitHub, GitLab, Bitbucket (the platforms).
- * Project Management: Jira, Trello, Asana.
+* Programming Languages:
+  * Java, C#: Powerful for large enterprise backend applications.
+  * Python: Excellent for backend applications, data science, and automation.
+  * JavaScript / TypeScript: The primary language for the web (Frontend & Backend).
+  * Go, Rust: Modern languages focused on high performance and concurrent systems.
+  * Kotlin, Swift: The primary languages for mobile development (Android & iOS).
+* Frameworks:
+  * Backend: Spring (Java), Django/Flask (Python), Node.js/Express (JS), .NET (C#).
+  * Frontend: React, Angular, Vue.js.
+* Databases:
+  * SQL: PostgreSQL, MySQL, SQL Server.
+  * NoSQL: MongoDB, Redis, Cassandra.
+* Version Control: Git (the tool), GitHub, GitLab, Bitbucket (the platforms).
+* Project Management: Jira, Trello, Asana.
 
 ## 6. In-Depth Workflow
 
@@ -104,14 +107,15 @@ Methodology: Scrum (two-week sprints).
 
 ## 7. Common Job Roles
 
- * Frontend Engineer: Focuses on the user experience in the browser.
- * Backend Engineer: Focuses on server logic and databases.
- * Full-Stack Engineer: Works on both Frontend and Backend.
- * Mobile Engineer (iOS/Android): Specializes in mobile applications.
- * Software Architect: An expert engineer who designs the overall architecture of complex systems.
- * QA Engineer: Writes code to test the code written by other developers.
+* Frontend Engineer: Focuses on the user experience in the browser.
+* Backend Engineer: Focuses on server logic and databases.
+* Full-Stack Engineer: Works on both Frontend and Backend.
+* Mobile Engineer (iOS/Android): Specializes in mobile applications.
+* Software Architect: An expert engineer who designs the overall architecture of complex systems.
+* QA Engineer: Writes code to test the code written by other developers.
 
 ## 8. A-Z Glossary
+
 <details>
 <summary>Click to expand/collapse the glossary</summary>
 
@@ -162,3 +166,4 @@ Methodology: Scrum (two-week sprints).
 </details>
 
 [⬆️ Back to Table of Contents](README.md)
+

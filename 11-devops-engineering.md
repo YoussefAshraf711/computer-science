@@ -11,48 +11,49 @@ Simply put, if the software engineer builds the car and the cloud engineer build
 ## 2. What does the specialist do?
 
 A DevOps engineer is the "automation expert" and "process optimizer." They don't typically write new feature code for the application, but rather build, manage, and improve the "factory" (the CI/CD pipeline) that builds, tests, and deploys the code. Their tasks include:
- * Building and maintaining CI/CD pipelines: Creating fully automated systems for software delivery.
- * Managing Infrastructure as Code (IaC): Using tools like Terraform to define and manage infrastructure.
- * Implementing Monitoring & Logging solutions: Building systems to monitor the health of applications and infrastructure in real-time.
- * Automating operational tasks: Writing scripts to automate repetitive tasks.
- * Working closely with developers: Helping them improve the deployment process and solve infrastructure-related problems.
+
+* Building and maintaining CI/CD pipelines: Creating fully automated systems for software delivery.
+* Managing Infrastructure as Code (IaC): Using tools like Terraform to define and manage infrastructure.
+* Implementing Monitoring & Logging solutions: Building systems to monitor the health of applications and infrastructure in real-time.
+* Automating operational tasks: Writing scripts to automate repetitive tasks.
+* Working closely with developers: Helping them improve the deployment process and solve infrastructure-related problems.
 
 ## 3. Sub-domains
 
- * CI/CD Engineering: Specializing in building and optimizing integration and deployment pipelines.
- * Infrastructure Automation: Focusing on IaC tools like Terraform and configuration management tools like Ansible.
- * Site Reliability Engineering (SRE): A specific implementation of DevOps (coined by Google) that uses software engineering principles to solve operations problems. (To be explained in a future chapter).
- * Platform Engineering: A new trend where a central team builds an "internal developer platform" (IDP) that provides self-service tools for developers, abstracting away the complexities of DevOps and the cloud.
+* CI/CD Engineering: Specializing in building and optimizing integration and deployment pipelines.
+* Infrastructure Automation: Focusing on IaC tools like Terraform and configuration management tools like Ansible.
+* Site Reliability Engineering (SRE): A specific implementation of DevOps (coined by Google) that uses software engineering principles to solve operations problems. (To be explained in a future chapter).
+* Platform Engineering: A new trend where a central team builds an "internal developer platform" (IDP) that provides self-service tools for developers, abstracting away the complexities of DevOps and the cloud.
 
 ## 4. Expanded Key Concepts
 
- * The `CALMS` culture of DevOps:
-     * `C`ulture: Shared responsibility and collaboration.
-     * `A`utomation: Automate everything possible.
-     * `L`ean: Eliminate waste and focus on value.
-     * `M`easurement: Measure everything, from delivery time to error rates.
-     * `S`haring: Sharing knowledge and tools.
- * `CI/CD` (Continuous Integration/Deployment): The heart of DevOps.
-     * `CI` (Continuous Integration): Automatically building and testing code with every change.
-     * `CD` (Continuous Delivery): Automatically preparing a deployable release after CI succeeds.
-     * `CD` (Continuous Deployment): Automatically deploying this release to the production environment.
- * `Infrastructure as Code (IaC)`: Managing infrastructure through version-controllable code files, instead of manual setup.
- * `Configuration Management`: Ensuring that server and software configurations are consistent and managed via code (using tools like Ansible).
- * `Monitoring vs. Observability`:
-     * `Monitoring`: Collecting predefined metrics ("known unknowns").
-     * `Observability`: The ability to ask arbitrary questions about your system's state without needing to pre-define metrics ("unknown unknowns"). It includes Logs, Metrics, and Traces.
+* The `CALMS` culture of DevOps:
+  * `C`ulture: Shared responsibility and collaboration.
+  * `A`utomation: Automate everything possible.
+  * `L`ean: Eliminate waste and focus on value.
+  * `M`easurement: Measure everything, from delivery time to error rates.
+  * `S`haring: Sharing knowledge and tools.
+* `CI/CD` (Continuous Integration/Deployment): The heart of DevOps.
+  * `CI` (Continuous Integration): Automatically building and testing code with every change.
+  * `CD` (Continuous Delivery): Automatically preparing a deployable release after CI succeeds.
+  * `CD` (Continuous Deployment): Automatically deploying this release to the production environment.
+* `Infrastructure as Code (IaC)`: Managing infrastructure through version-controllable code files, instead of manual setup.
+* `Configuration Management`: Ensuring that server and software configurations are consistent and managed via code (using tools like Ansible).
+* `Monitoring vs. Observability`:
+  * `Monitoring`: Collecting predefined metrics ("known unknowns").
+  * `Observability`: The ability to ask arbitrary questions about your system's state without needing to pre-define metrics ("unknown unknowns"). It includes Logs, Metrics, and Traces.
 
 ## 5. Expanded Tools & Technologies
 
- * Version Control: Git, GitHub, GitLab.
- * CI/CD Tools: Jenkins, GitHub Actions, GitLab CI.
- * Infrastructure as Code (IaC): Terraform, AWS CloudFormation.
- * Configuration Management: Ansible, Puppet.
- * Containers: Docker.
- * Container Orchestration: Kubernetes.
- * Monitoring: Prometheus, Grafana.
- * Logging: ELK Stack (Elasticsearch, Logstash, Kibana).
- * Scripting: Bash, Python.
+* Version Control: Git, GitHub, GitLab.
+* CI/CD Tools: Jenkins, GitHub Actions, GitLab CI.
+* Infrastructure as Code (IaC): Terraform, AWS CloudFormation.
+* Configuration Management: Ansible, Puppet.
+* Containers: Docker.
+* Container Orchestration: Kubernetes.
+* Monitoring: Prometheus, Grafana.
+* Logging: ELK Stack (Elasticsearch, Logstash, Kibana).
+* Scripting: Bash, Python.
 
 ## 6. In-Depth Workflow
 
@@ -70,13 +71,14 @@ Project: A developer has finished the "Login with Google" feature and created a 
 
 ## 7. Common Job Roles
 
- * DevOps Engineer
- * Platform Engineer
- * Build/Release Engineer
- * Automation Engineer
- * Site Reliability Engineer (SRE)
+* DevOps Engineer
+* Platform Engineer
+* Build/Release Engineer
+* Automation Engineer
+* Site Reliability Engineer (SRE)
 
 ## 8. A-Z Glossary
+
 <details>
 <summary>Click to expand/collapse the glossary</summary>
 
@@ -98,3 +100,4 @@ Project: A developer has finished the "Login with Google" feature and created a 
 </details>
 
 [⬆️ Back to Table of Contents](README.md)
+

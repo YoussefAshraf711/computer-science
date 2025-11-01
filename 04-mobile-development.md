@@ -9,46 +9,47 @@ Mobile Development is the process of designing and building software (applicatio
 ## 2. What does the specialist do?
 
 A Mobile Developer is responsible for the entire application lifecycle, from idea to publication in app stores. Their tasks include:
- * Designing and building interfaces: Creating attractive and user-friendly user interfaces (UI) that adhere to the design guidelines of each platform (iOS or Android).
- * Writing application logic: Programming the core functions of the app and user interactions.
- * Integrating with the Backend: Communicating with servers via APIs to fetch and store data.
- * Handling device features: Using native SDKs to access the camera, contacts, location, etc.
- * Managing local data: Storing data on the device itself to work offline.
- * Testing and publishing: Testing the app on different devices and emulators, then preparing and publishing it to the Apple App Store or Google Play Store.
+
+* Designing and building interfaces: Creating attractive and user-friendly user interfaces (UI) that adhere to the design guidelines of each platform (iOS or Android).
+* Writing application logic: Programming the core functions of the app and user interactions.
+* Integrating with the Backend: Communicating with servers via APIs to fetch and store data.
+* Handling device features: Using native SDKs to access the camera, contacts, location, etc.
+* Managing local data: Storing data on the device itself to work offline.
+* Testing and publishing: Testing the app on different devices and emulators, then preparing and publishing it to the Apple App Store or Google Play Store.
 
 ## 3. Core Approaches
 
 There are two main approaches to mobile app development:
 
- * Native Development:
-     * Description: Building a custom application for each platform separately using its official languages and tools.
-     * iOS: Using Swift (or Objective-C) with the Xcode environment and SwiftUI (or UIKit) framework.
-     * Android: Using Kotlin (or Java) with the Android Studio environment and Jetpack Compose (or XML) framework.
-     * Advantages: Best possible performance, full access to all system features, 100% native user experience.
-     * Disadvantages: Costly and more time-consuming as it requires two separate teams or writing the code twice.
+* Native Development:
+  * Description: Building a custom application for each platform separately using its official languages and tools.
+  * iOS: Using Swift (or Objective-C) with the Xcode environment and SwiftUI (or UIKit) framework.
+  * Android: Using Kotlin (or Java) with the Android Studio environment and Jetpack Compose (or XML) framework.
+  * Advantages: Best possible performance, full access to all system features, 100% native user experience.
+  * Disadvantages: Costly and more time-consuming as it requires two separate teams or writing the code twice.
 
- * Cross-Platform Development:
-     * Description: Writing a single codebase that runs on both iOS and Android.
-     * Most popular frameworks: Flutter, React Native, .NET MAUI.
-     * Advantages: Faster development and lower cost.
-     * Disadvantages: Performance might be lower than native apps, and access to some new system features might be delayed.
+* Cross-Platform Development:
+  * Description: Writing a single codebase that runs on both iOS and Android.
+  * Most popular frameworks: Flutter, React Native, .NET MAUI.
+  * Advantages: Faster development and lower cost.
+  * Disadvantages: Performance might be lower than native apps, and access to some new system features might be delayed.
 
 ## 4. Expanded Key Concepts
 
- * Mobile `UI/UX`: Designing interfaces considering small screens, touch interaction, and platform-specific design guidelines (Apple's Human Interface Guidelines and Google's Material Design).
- * `App Lifecycle`: The different states an app goes through (running in the foreground, running in the background, suspended) and how to handle each state.
- * `SDK (Software Development Kit)`: The development toolkit provided by Apple and Google to access native system features.
- * `Data Persistence`: Methods for storing data locally on the device so it doesn't disappear when the app is closed, using tools like SQLite, Core Data, or SharedPreferences.
- * `Push Notifications`: Alerts sent from a server to the user's phone to notify them of a new event, even if the app is closed.
- * `Code Signing`: A mandatory security process (especially on iOS) to ensure that the app comes from a trusted developer and has not been tampered with.
+* Mobile `UI/UX`: Designing interfaces considering small screens, touch interaction, and platform-specific design guidelines (Apple's Human Interface Guidelines and Google's Material Design).
+* `App Lifecycle`: The different states an app goes through (running in the foreground, running in the background, suspended) and how to handle each state.
+* `SDK (Software Development Kit)`: The development toolkit provided by Apple and Google to access native system features.
+* `Data Persistence`: Methods for storing data locally on the device so it doesn't disappear when the app is closed, using tools like SQLite, Core Data, or SharedPreferences.
+* `Push Notifications`: Alerts sent from a server to the user's phone to notify them of a new event, even if the app is closed.
+* `Code Signing`: A mandatory security process (especially on iOS) to ensure that the app comes from a trusted developer and has not been tampered with.
 
 ## 5. Expanded Tools & Technologies
 
- * Native iOS: Swift, SwiftUI, Xcode, Core Data, CocoaPods.
- * Native Android: Kotlin, Jetpack Compose, Android Studio, Room, Gradle.
- * Cross-Platform: Flutter (using Dart), React Native (using JavaScript/TypeScript), .NET MAUI (using C#).
- * Local Databases: SQLite, Realm.
- * Backend as a Service (BaaS): Firebase, AWS Amplify.
+* Native iOS: Swift, SwiftUI, Xcode, Core Data, CocoaPods.
+* Native Android: Kotlin, Jetpack Compose, Android Studio, Room, Gradle.
+* Cross-Platform: Flutter (using Dart), React Native (using JavaScript/TypeScript), .NET MAUI (using C#).
+* Local Databases: SQLite, Realm.
+* Backend as a Service (BaaS): Firebase, AWS Amplify.
 
 ## 6. In-Depth Workflow
 
@@ -68,13 +69,14 @@ Methodology: Native Development using Swift and SwiftUI.
 
 ## 7. Common Job Roles
 
- * iOS Developer: Specializes in building apps for Apple's platform.
- * Android Developer: Specializes in building apps for Google's platform.
- * Mobile Developer: A general term that could mean a native or cross-platform developer.
- * Flutter Developer: Specializes in building apps using the Flutter framework.
- * React Native Developer: Specializes in building apps using the React Native framework.
+* iOS Developer: Specializes in building apps for Apple's platform.
+* Android Developer: Specializes in building apps for Google's platform.
+* Mobile Developer: A general term that could mean a native or cross-platform developer.
+* Flutter Developer: Specializes in building apps using the Flutter framework.
+* React Native Developer: Specializes in building apps using the React Native framework.
 
 ## 8. A-Z Glossary
+
 <details>
 <summary>Click to expand/collapse the glossary</summary>
 
@@ -104,3 +106,4 @@ Methodology: Native Development using Swift and SwiftUI.
 </details>
 
 [⬆️ Back to Table of Contents](README.md)
+

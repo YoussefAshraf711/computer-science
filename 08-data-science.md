@@ -10,42 +10,42 @@ If the data analyst is the "detective," the data scientist is the "scientist in 
 
 ## 2. What does the specialist do?
 
- * Formulating problems: Transforming complex business problems (like "How do we reduce customer churn?") into clear statistical or machine learning problems (like "Build a classification model to predict customers at risk of churning").
- * Data collection and exploration (EDA): Exploratory data analysis to understand its properties, distributions, and the relationships between its variables.
- * Feature Engineering: Creating and engineering new variables (features) from raw data to help the model learn better.
- * Building and training models: Building Machine Learning Models and training them on historical data to predict future outcomes.
- * Evaluating models: Measuring the accuracy and performance of models using precise statistical metrics.
- * Communicating results: Explaining the model's results and their business impact to non-technical stakeholders in an understandable way.
+* Formulating problems: Transforming complex business problems (like "How do we reduce customer churn?") into clear statistical or machine learning problems (like "Build a classification model to predict customers at risk of churning").
+* Data collection and exploration (EDA): Exploratory data analysis to understand its properties, distributions, and the relationships between its variables.
+* Feature Engineering: Creating and engineering new variables (features) from raw data to help the model learn better.
+* Building and training models: Building Machine Learning Models and training them on historical data to predict future outcomes.
+* Evaluating models: Measuring the accuracy and performance of models using precise statistical metrics.
+* Communicating results: Explaining the model's results and their business impact to non-technical stakeholders in an understandable way.
 
 ## 3. Sub-domains
 
- * Predictive Modeling: Building models to predict future outcomes (e.g., sales forecasting, stock price prediction).
- * Natural Language Processing (NLP): Dealing with and analyzing text data (e.g., sentiment analysis, chatbots).
- * Computer Vision: Dealing with image and video data (e.g., object recognition, image classification).
- * Recommendation Systems: Building systems that suggest products or content to users (like Netflix and Amazon recommendations).
- * Causal Inference: Using statistics to determine cause-and-effect relationships, not just correlation.
+* Predictive Modeling: Building models to predict future outcomes (e.g., sales forecasting, stock price prediction).
+* Natural Language Processing (NLP): Dealing with and analyzing text data (e.g., sentiment analysis, chatbots).
+* Computer Vision: Dealing with image and video data (e.g., object recognition, image classification).
+* Recommendation Systems: Building systems that suggest products or content to users (like Netflix and Amazon recommendations).
+* Causal Inference: Using statistics to determine cause-and-effect relationships, not just correlation.
 
 ## 4. Expanded Key Concepts
 
- * `Machine Learning`: The data scientist's primary toolkit. It includes:
-     * `Supervised Learning`: Training on data that has correct "answers" (Labels). It is divided into Classification and Regression.
-     * `Unsupervised Learning`: Training on data that has no answers, with the goal of discovering the internal structure (like Clustering).
- * `Modeling Process`:
-     * `Train/Validation/Test Split`: Dividing the data into 3 sets: for training, for tuning the model, and for its final test.
-     * `Cross-Validation`: A technique for more reliably evaluating a model by splitting the data into multiple parts and using them for training and testing interchangeably.
-     * `Hyperparameter Tuning`: The process of finding the best internal settings for a model to achieve the highest performance.
- * `Overfitting vs. Underfitting`:
-     * `Overfitting`: When the model memorizes the training data excessively (including noise), leading to poor performance on new data.
-     * `Underfitting`: When the model is too simple and fails to capture the underlying pattern in the data.
- * `Deep Learning`: Using deep neural networks to solve complex problems, especially in the fields of NLP and Computer Vision.
+* `Machine Learning`: The data scientist's primary toolkit. It includes:
+  * `Supervised Learning`: Training on data that has correct "answers" (Labels). It is divided into Classification and Regression.
+  * `Unsupervised Learning`: Training on data that has no answers, with the goal of discovering the internal structure (like Clustering).
+* `Modeling Process`:
+  * `Train/Validation/Test Split`: Dividing the data into 3 sets: for training, for tuning the model, and for its final test.
+  * `Cross-Validation`: A technique for more reliably evaluating a model by splitting the data into multiple parts and using them for training and testing interchangeably.
+  * `Hyperparameter Tuning`: The process of finding the best internal settings for a model to achieve the highest performance.
+* `Overfitting vs. Underfitting`:
+  * `Overfitting`: When the model memorizes the training data excessively (including noise), leading to poor performance on new data.
+  * `Underfitting`: When the model is too simple and fails to capture the underlying pattern in the data.
+* `Deep Learning`: Using deep neural networks to solve complex problems, especially in the fields of NLP and Computer Vision.
 
 ## 5. Expanded Tools & Technologies
 
- * Programming Languages: Python (dominant, with Pandas, NumPy, Scikit-learn, Matplotlib libraries), R.
- * Machine Learning and Deep Learning Frameworks: Scikit-learn (for traditional machine learning), TensorFlow, PyTorch, Keras (for deep learning).
- * Work Environments: Jupyter Notebook, Google Colab.
- * Big Data Tools: Spark (especially PySpark).
- * Cloud Machine Learning Platforms: Google Vertex AI, Amazon SageMaker, Azure Machine Learning.
+* Programming Languages: Python (dominant, with Pandas, NumPy, Scikit-learn, Matplotlib libraries), R.
+* Machine Learning and Deep Learning Frameworks: Scikit-learn (for traditional machine learning), TensorFlow, PyTorch, Keras (for deep learning).
+* Work Environments: Jupyter Notebook, Google Colab.
+* Big Data Tools: Spark (especially PySpark).
+* Cloud Machine Learning Platforms: Google Vertex AI, Amazon SageMaker, Azure Machine Learning.
 
 ## 6. In-Depth Workflow
 
@@ -62,12 +62,13 @@ Project: Build a model to predict customer churn.
 
 ## 7. Common Job Roles
 
- * Data Scientist
- * Machine Learning Scientist (often more focused on research and developing new algorithms).
- * NLP Scientist: A scientist specializing in natural language processing.
- * Computer Vision Engineer: An engineer specializing in computer vision.
+* Data Scientist
+* Machine Learning Scientist (often more focused on research and developing new algorithms).
+* NLP Scientist: A scientist specializing in natural language processing.
+* Computer Vision Engineer: An engineer specializing in computer vision.
 
 ## 8. A-Z Glossary
+
 <details>
 <summary>Click to expand/collapse the glossary</summary>
 
@@ -99,3 +100,4 @@ Project: Build a model to predict customer churn.
 </details>
 
 [⬆️ Back to Table of Contents](README.md)
+

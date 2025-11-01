@@ -8,40 +8,40 @@ Data Engineering is the discipline that focuses on building and maintaining the 
 
 ## 2. What does the specialist do?
 
- * Building Data Pipelines: Designing and building automated systems to move data from its sources (like applications, databases, sensors) to its final destination (like a data warehouse).
- * Designing Data Models: Structuring and organizing data in databases or data warehouses to be easy to query and analyze.
- * ETL/ELT Processes: Implementing Extract, Transform, and Load (ETL) or Extract, Load, and Transform (ELT) processes.
- * Ensuring Data Quality and Reliability: Making sure the data is accurate, complete, and available when needed.
- * Managing Big Data: Using specialized tools to handle data that is too large, fast, or diverse to be processed by traditional methods.
+* Building Data Pipelines: Designing and building automated systems to move data from its sources (like applications, databases, sensors) to its final destination (like a data warehouse).
+* Designing Data Models: Structuring and organizing data in databases or data warehouses to be easy to query and analyze.
+* ETL/ELT Processes: Implementing Extract, Transform, and Load (ETL) or Extract, Load, and Transform (ELT) processes.
+* Ensuring Data Quality and Reliability: Making sure the data is accurate, complete, and available when needed.
+* Managing Big Data: Using specialized tools to handle data that is too large, fast, or diverse to be processed by traditional methods.
 
 ## 3. Sub-domains
 
- * ETL Engineering: Focusing on building traditional ETL processes.
- * Data Pipeline Engineering: Focusing on building more modern and interactive data pipelines.
- * Big Data Engineering: Specializing in tools like Spark and Hadoop.
- * Analytics Engineering: A modern role that sits between a data engineer and a data analyst, focusing on transforming data within the data warehouse to be ready for direct analysis.
+* ETL Engineering: Focusing on building traditional ETL processes.
+* Data Pipeline Engineering: Focusing on building more modern and interactive data pipelines.
+* Big Data Engineering: Specializing in tools like Spark and Hadoop.
+* Analytics Engineering: A modern role that sits between a data engineer and a data analyst, focusing on transforming data within the data warehouse to be ready for direct analysis.
 
 ## 4. Expanded Key Concepts
 
- * `Data Pipeline`: The entire process of moving data from source to destination.
- * `ETL vs. ELT`:
-     * `ETL`: Extract, then Transform (on an intermediate server), then Load to the final destination.
-     * `ELT`: Extract, then Load to the final destination (like a cloud data warehouse), then Transform it there to leverage the warehouse's power.
- * `Data Warehouse`: A large database optimized for complex analytical queries. It contains structured and historical data.
- * `Data Lake`: A repository for storing massive amounts of data in its raw form (structured, unstructured, etc.) without needing to structure it beforehand.
- * `Data Modeling`: The process of designing the data structure. The most famous models in data warehouses are the Star Schema and Snowflake Schema.
- * `Batch vs. Stream Processing`:
-     * `Batch`: Processing large amounts of data at specific time intervals (e.g., every hour).
-     * `Stream`: Processing data instantly as it arrives.
+* `Data Pipeline`: The entire process of moving data from source to destination.
+* `ETL vs. ELT`:
+  * `ETL`: Extract, then Transform (on an intermediate server), then Load to the final destination.
+  * `ELT`: Extract, then Load to the final destination (like a cloud data warehouse), then Transform it there to leverage the warehouse's power.
+* `Data Warehouse`: A large database optimized for complex analytical queries. It contains structured and historical data.
+* `Data Lake`: A repository for storing massive amounts of data in its raw form (structured, unstructured, etc.) without needing to structure it beforehand.
+* `Data Modeling`: The process of designing the data structure. The most famous models in data warehouses are the Star Schema and Snowflake Schema.
+* `Batch vs. Stream Processing`:
+  * `Batch`: Processing large amounts of data at specific time intervals (e.g., every hour).
+  * `Stream`: Processing data instantly as it arrives.
 
 ## 5. Expanded Tools & Technologies
 
- * Programming Languages: Python (most common), SQL (essential and very important), Scala, Java.
- * Big Data Processing Tools: Apache Spark, Apache Hadoop.
- * Data Streaming Tools: Apache Kafka, Apache Flink.
- * Cloud Data Warehouses: Google BigQuery, Amazon Redshift, Snowflake.
- * Pipeline Orchestration Tools: Apache Airflow, Prefect, Dagster.
- * Transformation Tools: dbt (Data Build Tool).
+* Programming Languages: Python (most common), SQL (essential and very important), Scala, Java.
+* Big Data Processing Tools: Apache Spark, Apache Hadoop.
+* Data Streaming Tools: Apache Kafka, Apache Flink.
+* Cloud Data Warehouses: Google BigQuery, Amazon Redshift, Snowflake.
+* Pipeline Orchestration Tools: Apache Airflow, Prefect, Dagster.
+* Transformation Tools: dbt (Data Build Tool).
 
 ## 6. In-Depth Workflow
 
@@ -57,12 +57,13 @@ Project: Build a nightly pipeline to collect sales data from the application's d
 
 ## 7. Common Job Roles
 
- * Data Engineer: The general role.
- * Big Data Engineer: Specializes in big data tools.
- * Cloud Data Engineer: Specializes in data tools on a specific cloud platform (AWS, GCP, Azure).
- * Analytics Engineer: Focuses on the transformation (T) stage within the data warehouse.
+* Data Engineer: The general role.
+* Big Data Engineer: Specializes in big data tools.
+* Cloud Data Engineer: Specializes in data tools on a specific cloud platform (AWS, GCP, Azure).
+* Analytics Engineer: Focuses on the transformation (T) stage within the data warehouse.
 
 ## 8. A-Z Glossary
+
 <details>
 <summary>Click to expand/collapse the glossary</summary>
 
@@ -91,3 +92,4 @@ Project: Build a nightly pipeline to collect sales data from the application's d
 </details>
 
 [⬆️ Back to Table of Contents](README.md)
+

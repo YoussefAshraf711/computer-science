@@ -11,41 +11,42 @@ If the Frontend is the beautiful storefront and restaurant, the Backend is the k
 ## 2. What does the specialist do?
 
 A Backend Developer is the engineer who builds and maintains the stability and performance of the server, application, and database. Their tasks include:
- * Building Application Programming Interfaces (APIs): Creating organized and secure "Endpoints" that the Frontend (or mobile apps) use to request or send data.
- * Managing Business Logic: Writing the code that implements the application's core rules (e.g., how a product's price is calculated, what are the conditions for publishing a new post).
- * Interacting with Databases: Designing, creating, and querying databases to store and retrieve information.
- * Authentication & Authorization: Verifying the identity of users (Authentication) and determining the permissions granted to them (Authorization).
- * Ensuring Security and Performance: Protecting the server from attacks and ensuring it can handle a large number of users (Scalability).
+
+* Building Application Programming Interfaces (APIs): Creating organized and secure "Endpoints" that the Frontend (or mobile apps) use to request or send data.
+* Managing Business Logic: Writing the code that implements the application's core rules (e.g., how a product's price is calculated, what are the conditions for publishing a new post).
+* Interacting with Databases: Designing, creating, and querying databases to store and retrieve information.
+* Authentication & Authorization: Verifying the identity of users (Authentication) and determining the permissions granted to them (Authorization).
+* Ensuring Security and Performance: Protecting the server from attacks and ensuring it can handle a large number of users (Scalability).
 
 ## 3. Sub-domains
 
- * API Development: Specializing in designing and building efficient and secure APIs, whether REST or GraphQL.
- * Database Engineering: Focusing on designing complex database structures, optimizing query performance, and ensuring data integrity.
- * Cloud Infrastructure Engineering: Focusing on deploying and managing Backend services on cloud platforms like AWS or Azure (a role that overlaps with DevOps and Cloud Engineering).
- * Distributed Systems Engineering: Building complex backend systems that run on multiple servers simultaneously to achieve high performance and availability.
+* API Development: Specializing in designing and building efficient and secure APIs, whether REST or GraphQL.
+* Database Engineering: Focusing on designing complex database structures, optimizing query performance, and ensuring data integrity.
+* Cloud Infrastructure Engineering: Focusing on deploying and managing Backend services on cloud platforms like AWS or Azure (a role that overlaps with DevOps and Cloud Engineering).
+* Distributed Systems Engineering: Building complex backend systems that run on multiple servers simultaneously to achieve high performance and availability.
 
 ## 4. Expanded Key Concepts
 
- * `Server`: A computer (or program) that runs continuously to receive requests from clients (like browsers) and send responses.
- * `API (Application Programming Interface)`: The contract or common language agreed upon by the Frontend and Backend for communication.
- * `Database`: A system for storing data. It is divided into:
-     * `Relational (SQL)`: Data organized in interconnected tables (e.g., PostgreSQL).
-     * `Non-Relational (NoSQL)`: More flexible and used for unstructured or large-scale data (e.g., MongoDB).
- * `Authentication & Authorization`:
-     * `Authentication`: Proving identity (Who are you?).
-     * `Authorization`: Determining permissions (What can you do?).
- * `Caching`: Using fast memory (like Redis) to store frequently requested data to speed up responses and reduce the load on the database.
- * `Asynchronous Tasks`: Handling long-running operations (like sending an email, processing a video) in the background using "Job Queues" like Celery or RabbitMQ, so the user doesn't have to wait.
- * `Load Balancing`: Distributing incoming requests across multiple servers to prevent overloading a single server and ensure service continuity.
+* `Server`: A computer (or program) that runs continuously to receive requests from clients (like browsers) and send responses.
+* `API (Application Programming Interface)`: The contract or common language agreed upon by the Frontend and Backend for communication.
+* `Database`: A system for storing data. It is divided into:
+  * `Relational (SQL)`: Data organized in interconnected tables (e.g., PostgreSQL).
+  * `Non-Relational (NoSQL)`: More flexible and used for unstructured or large-scale data (e.g., MongoDB).
+* `Authentication & Authorization`:
+  * `Authentication`: Proving identity (Who are you?).
+  * `Authorization`: Determining permissions (What can you do?).
+* `Caching`: Using fast memory (like Redis) to store frequently requested data to speed up responses and reduce the load on the database.
+* `Asynchronous Tasks`: Handling long-running operations (like sending an email, processing a video) in the background using "Job Queues" like Celery or RabbitMQ, so the user doesn't have to wait.
+* `Load Balancing`: Distributing incoming requests across multiple servers to prevent overloading a single server and ensure service continuity.
 
 ## 5. Expanded Tools & Technologies
 
- * Languages: Node.js (JavaScript/TypeScript), Python, Java, C#, Go, Ruby, PHP.
- * Frameworks: Express (Node.js), Django/Flask (Python), Spring (Java), .NET (C#), Gin (Go), Ruby on Rails.
- * Databases: PostgreSQL, MySQL, MongoDB, Redis.
- * API Types: REST, GraphQL, gRPC.
- * Containerization Tools: Docker, Kubernetes.
- * Web Servers: Nginx, Apache.
+* Languages: Node.js (JavaScript/TypeScript), Python, Java, C#, Go, Ruby, PHP.
+* Frameworks: Express (Node.js), Django/Flask (Python), Spring (Java), .NET (C#), Gin (Go), Ruby on Rails.
+* Databases: PostgreSQL, MySQL, MongoDB, Redis.
+* API Types: REST, GraphQL, gRPC.
+* Containerization Tools: Docker, Kubernetes.
+* Web Servers: Nginx, Apache.
 
 ## 6. In-Depth Workflow
 
@@ -61,12 +62,13 @@ Project: Build the Backend for a "create new post" feature in a blog.
 
 ## 7. Common Job Roles
 
- * Backend Developer / Engineer: The general role.
- * API Developer: Specializes in building APIs.
- * Database Engineer / Administrator (DBA): Focuses on designing and maintaining databases.
- * Cloud Engineer: Specializes in the cloud infrastructure that the Backend runs on.
+* Backend Developer / Engineer: The general role.
+* API Developer: Specializes in building APIs.
+* Database Engineer / Administrator (DBA): Focuses on designing and maintaining databases.
+* Cloud Engineer: Specializes in the cloud infrastructure that the Backend runs on.
 
 ## 8. A-Z Glossary
+
 <details>
 <summary>Click to expand/collapse the glossary</summary>
 
@@ -99,3 +101,4 @@ Project: Build the Backend for a "create new post" feature in a blog.
 </details>
 
 [⬆️ Back to Table of Contents](README.md)
+

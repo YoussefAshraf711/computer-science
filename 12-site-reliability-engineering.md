@@ -14,52 +14,53 @@ The core idea of SRE is: "Treating operations as a software problem." Instead of
 
 The primary goal of an SRE is to ensure that a service meets its defined reliability targets. Their work is a delicate balance between proactive engineering and reactive operations:
 
- * Proactive Engineering (more than 50% of their time):
-     * Writing software to automate operational tasks.
-     * Improving system architecture to increase reliability.
-     * Building advanced monitoring systems.
-     * Performing Capacity Planning to predict future growth.
+* Proactive Engineering (more than 50% of their time):
+  * Writing software to automate operational tasks.
+  * Improving system architecture to increase reliability.
+  * Building advanced monitoring systems.
+  * Performing Capacity Planning to predict future growth.
 
- * Reactive Operations (less than 50% of their time):
-     * Responding to incidents and outages (being "On-call").
-     * Managing outages as they occur.
-     * Writing "Post-mortems" to learn from mistakes and prevent them from recurring.
+* Reactive Operations (less than 50% of their time):
+  * Responding to incidents and outages (being "On-call").
+  * Managing outages as they occur.
+  * Writing "Post-mortems" to learn from mistakes and prevent them from recurring.
 
 ## 3. Sub-domains
 
- * Observability: Building systems that provide deep insight into system health.
- * Incident Response: Leading recovery efforts during outages.
- * Capacity Planning: Predicting future growth and ensuring sufficient resources are available.
- * Automation: Building software to eliminate "Toil."
+* Observability: Building systems that provide deep insight into system health.
+* Incident Response: Leading recovery efforts during outages.
+* Capacity Planning: Predicting future growth and ensuring sufficient resources are available.
+* Automation: Building software to eliminate "Toil."
 
 ## 4. Expanded Key Concepts
 
 These are the concepts that distinguish the SRE philosophy:
 
- * `SLI (Service Level Indicator)`: A quantitative measure of some aspect of the service.
-     * Example: The percentage of successful requests (that return a 200 code).
+* `SLI (Service Level Indicator)`: A quantitative measure of some aspect of the service.
+  * Example: The percentage of successful requests (that return a 200 code).
 
- * `SLO (Service Level Objective)`: A target value for an SLI. This is an internal goal for the team.
-     * Example: "99% of homepage requests should have a latency of less than 300ms."
+* `SLO (Service Level Objective)`: A target value for an SLI. This is an internal goal for the team.
+  * Example: "99% of homepage requests should have a latency of less than 300ms."
 
- * `SLA (Service Level Agreement)`: A legal contract with a customer that includes consequences (like financial compensation) if SLOs are not met.
-     * Note: SREs focus on meeting SLOs to ensure SLAs are met.
+* `SLA (Service Level Agreement)`: A legal contract with a customer that includes consequences (like financial compensation) if SLOs are not met.
+  * Note: SREs focus on meeting SLOs to ensure SLAs are met.
 
- * `Error Budget`: The flip side of an SLO. If your SLO is 99.9% availability, your error budget is 0.1%. This is the amount of "acceptable" failure.
-     * The key idea: The error budget is treated as a resource that can be "spent." If the budget is full, the team can launch new features quickly and take risks. If the budget is depleted, all new feature launches are frozen, and the team must focus exclusively on improving reliability. This creates a data-driven balance between innovation and stability.
+* `Error Budget`: The flip side of an SLO. If your SLO is 99.9% availability, your error budget is 0.1%. This is the amount of "acceptable" failure.
+  * The key idea: The error budget is treated as a resource that can be "spent." If the budget is full, the team can launch new features quickly and take risks. If the budget is depleted, all new feature launches are frozen, and the team must focus exclusively on improving reliability. This creates a data-driven balance between innovation and stability.
 
- * `Toil`: Any manual, repetitive, automatable, tactical work that lacks long-term value. The primary goal of an SRE is to eliminate Toil by writing automation software.
+* `Toil`: Any manual, repetitive, automatable, tactical work that lacks long-term value. The primary goal of an SRE is to eliminate Toil by writing automation software.
 
- * `Post-mortem`: A detailed document that records an outage incident, its impact, the actions taken, the root cause, and follow-up steps to prevent recurrence. The core principle here is to be Blameless. The focus is on fixing systems, not blaming people.
+* `Post-mortem`: A detailed document that records an outage incident, its impact, the actions taken, the root cause, and follow-up steps to prevent recurrence. The core principle here is to be Blameless. The focus is on fixing systems, not blaming people.
 
 ## 5. Expanded Tools & Technologies
 
 The tools are very similar to DevOps tools, but the application method differs:
- * Observability: Prometheus, Grafana, Jaeger (for Tracing).
- * Automation and Scripting: Python, Go, Bash.
- * Infrastructure: Kubernetes, Terraform, Ansible.
- * Incident Management: PagerDuty, Opsgenie.
- * Chaos Engineering: Gremlin, Chaos Monkey (tools that intentionally inject failure into the system to test its resilience).
+
+* Observability: Prometheus, Grafana, Jaeger (for Tracing).
+* Automation and Scripting: Python, Go, Bash.
+* Infrastructure: Kubernetes, Terraform, Ansible.
+* Incident Management: PagerDuty, Opsgenie.
+* Chaos Engineering: Gremlin, Chaos Monkey (tools that intentionally inject failure into the system to test its resilience).
 
 ## 6. In-Depth Workflow
 
@@ -76,11 +77,12 @@ Project: An SRE team is responsible for the critical "Checkout" service on an e-
 
 ## 7. Common Job Roles
 
- * Site Reliability Engineer (SRE)
- * Systems Engineer (SRE Focus)
- * Observability Engineer
+* Site Reliability Engineer (SRE)
+* Systems Engineer (SRE Focus)
+* Observability Engineer
 
 ## 8. A-Z Glossary
+
 <details>
 <summary>Click to expand/collapse the glossary</summary>
 
@@ -103,3 +105,4 @@ Project: An SRE team is responsible for the critical "Checkout" service on an e-
 </details>
 
 [⬆️ Back to Table of Contents](README.md)
+

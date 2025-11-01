@@ -11,42 +11,43 @@ If the Backend is the "brain" of the application working behind the scenes, the 
 ## 2. What does the specialist do?
 
 A Frontend Developer builds the visual and interactive user experience for a website or web application. Their main tasks include:
- * Converting designs to code: Taking design files (from programs like Figma or Adobe XD) and turning them into real web pages using HTML, CSS, and JavaScript.
- * Building interactivity: Making the page "live" and responsive to user actions, such as button clicks, form submissions, dropdown menus, and animations.
- * Communicating with the backend: Calling APIs provided by the Backend team to fetch and display data (like user information, product lists), or to send new data (like creating a new post).
- * Ensuring Responsiveness: Making sure the website works and looks great on all screen sizes (desktops, tablets, and phones).
- * Optimizing performance: Working to make the site load and respond quickly to provide the best possible user experience.
+
+* Converting designs to code: Taking design files (from programs like Figma or Adobe XD) and turning them into real web pages using HTML, CSS, and JavaScript.
+* Building interactivity: Making the page "live" and responsive to user actions, such as button clicks, form submissions, dropdown menus, and animations.
+* Communicating with the backend: Calling APIs provided by the Backend team to fetch and display data (like user information, product lists), or to send new data (like creating a new post).
+* Ensuring Responsiveness: Making sure the website works and looks great on all screen sizes (desktops, tablets, and phones).
+* Optimizing performance: Working to make the site load and respond quickly to provide the best possible user experience.
 
 ## 3. Sub-domains
 
- * UI Development: Focuses primarily on the visual aspect, converting designs with high fidelity using HTML and CSS, with special attention to fine details and animations.
- * JavaScript/Framework Development: Focuses on building the application's logic in the browser, State Management, and constructing complex interactive components using frameworks like React or Angular.
- * Web Performance Optimization: Specializes in analyzing and speeding up website performance by reducing file sizes, improving rendering speed, and using caching techniques.
- * Accessibility (a11y): Specializes in making websites usable by all people, including those with disabilities, by following WCAG standards.
+* UI Development: Focuses primarily on the visual aspect, converting designs with high fidelity using HTML and CSS, with special attention to fine details and animations.
+* JavaScript/Framework Development: Focuses on building the application's logic in the browser, State Management, and constructing complex interactive components using frameworks like React or Angular.
+* Web Performance Optimization: Specializes in analyzing and speeding up website performance by reducing file sizes, improving rendering speed, and using caching techniques.
+* Accessibility (a11y): Specializes in making websites usable by all people, including those with disabilities, by following WCAG standards.
 
 ## 4. Expanded Key Concepts
 
- * The Core Trinity:
-     * `HTML (HyperText Markup Language)`: The language for building the structure and content of a web page.
-     * `CSS (Cascading Style Sheets)`: The language for styling and designing the appearance of the page (colors, fonts, layout).
-     * `JavaScript`: The programming language that adds interactivity and logic to the page.
- * `DOM (Document Object Model)`: A tree-like representation of the HTML page's structure. JavaScript manipulates the DOM to dynamically change the page's content or appearance.
- * `Responsive Design`: A technique that makes a website's design automatically adapt to the screen size using tools like Media Queries, Flexbox, and Grid.
- * `State Management`: A fundamental concept in modern applications, meaning the management of data that changes over time and affects what the user sees (e.g., is the user logged in? what are the contents of the shopping cart?).
- * `Component-Based Architecture`: Building the user interface as a collection of independent and reusable "components" (e.g., a button component, a top bar component). This is the core idea of modern frameworks.
- * `API Communication`: How the Frontend communicates with the Backend. The most popular methods are REST API and GraphQL.
- * `Build Tools & Bundlers`: Tools like Vite and Webpack that compile and transform modern JavaScript and CSS code into optimized files that the browser understands.
- * `Package Managers`: Tools like npm and yarn for managing external libraries that the project depends on.
+* The Core Trinity:
+  * `HTML (HyperText Markup Language)`: The language for building the structure and content of a web page.
+  * `CSS (Cascading Style Sheets)`: The language for styling and designing the appearance of the page (colors, fonts, layout).
+  * `JavaScript`: The programming language that adds interactivity and logic to the page.
+* `DOM (Document Object Model)`: A tree-like representation of the HTML page's structure. JavaScript manipulates the DOM to dynamically change the page's content or appearance.
+* `Responsive Design`: A technique that makes a website's design automatically adapt to the screen size using tools like Media Queries, Flexbox, and Grid.
+* `State Management`: A fundamental concept in modern applications, meaning the management of data that changes over time and affects what the user sees (e.g., is the user logged in? what are the contents of the shopping cart?).
+* `Component-Based Architecture`: Building the user interface as a collection of independent and reusable "components" (e.g., a button component, a top bar component). This is the core idea of modern frameworks.
+* `API Communication`: How the Frontend communicates with the Backend. The most popular methods are REST API and GraphQL.
+* `Build Tools & Bundlers`: Tools like Vite and Webpack that compile and transform modern JavaScript and CSS code into optimized files that the browser understands.
+* `Package Managers`: Tools like npm and yarn for managing external libraries that the project depends on.
 
 ## 5. Expanded Tools & Technologies
 
- * Languages: HTML5, CSS3, JavaScript (ES6+), TypeScript.
- * Frameworks and Libraries: React, Angular, Vue.js, Svelte.
- * CSS Frameworks: Bootstrap, Tailwind CSS, Material-UI.
- * State Management Libraries: Redux, Zustand (for React), Vuex (for Vue).
- * Testing Tools: Jest (for unit testing), React Testing Library, Cypress (for E2E tests).
- * Build Tools: Vite, Webpack, Babel.
- * Design Software (for collaboration with designers): Figma, Sketch, Adobe XD.
+* Languages: HTML5, CSS3, JavaScript (ES6+), TypeScript.
+* Frameworks and Libraries: React, Angular, Vue.js, Svelte.
+* CSS Frameworks: Bootstrap, Tailwind CSS, Material-UI.
+* State Management Libraries: Redux, Zustand (for React), Vuex (for Vue).
+* Testing Tools: Jest (for unit testing), React Testing Library, Cypress (for E2E tests).
+* Build Tools: Vite, Webpack, Babel.
+* Design Software (for collaboration with designers): Figma, Sketch, Adobe XD.
 
 ## 6. In-Depth Workflow
 
@@ -68,12 +69,13 @@ Project: Build a "User Profile" page.
 
 ## 7. Common Job Roles
 
- * Frontend Developer / Engineer: The general and comprehensive role.
- * UI Engineer: Often more focused on the visual aspect and pixel-perfect implementation of designs.
- * JavaScript Developer: Specializes deeply in the JavaScript language and application logic.
- * React / Angular / Vue Developer: A developer specializing in one of the popular frameworks.
+* Frontend Developer / Engineer: The general and comprehensive role.
+* UI Engineer: Often more focused on the visual aspect and pixel-perfect implementation of designs.
+* JavaScript Developer: Specializes deeply in the JavaScript language and application logic.
+* React / Angular / Vue Developer: A developer specializing in one of the popular frameworks.
 
 ## 8. A-Z Glossary
+
 <details>
 <summary>Click to expand/collapse the glossary</summary>
 
@@ -107,3 +109,4 @@ Project: Build a "User Profile" page.
 </details>
 
 [⬆️ Back to Table of Contents](README.md)
+

@@ -11,39 +11,40 @@ If the data engineer builds the data highways, and the data scientist predicts t
 ## 2. What does the specialist do?
 
 A data analyst is the bridge between raw data and business leaders. Their daily tasks include:
- * Understanding business requirements: Sitting with different departments (like marketing, sales) to understand what they need to know from the data.
- * Querying and collecting data: Writing complex SQL queries to pull the required data from databases and data warehouses.
- * Cleaning and preparing data: Dealing with missing data, errors, and inconsistent formats to make it ready for analysis.
- * Statistical analysis: Applying basic statistical concepts to discover trends, patterns, and correlations in the data.
- * Data Visualization: Creating clear and attractive charts and graphs to present the findings.
- * Building reports and dashboards: Assembling charts and key performance indicators into an interactive dashboard to help management track performance and make decisions.
+
+* Understanding business requirements: Sitting with different departments (like marketing, sales) to understand what they need to know from the data.
+* Querying and collecting data: Writing complex SQL queries to pull the required data from databases and data warehouses.
+* Cleaning and preparing data: Dealing with missing data, errors, and inconsistent formats to make it ready for analysis.
+* Statistical analysis: Applying basic statistical concepts to discover trends, patterns, and correlations in the data.
+* Data Visualization: Creating clear and attractive charts and graphs to present the findings.
+* Building reports and dashboards: Assembling charts and key performance indicators into an interactive dashboard to help management track performance and make decisions.
 
 ## 3. Sub-domains
 
- * Business Intelligence Analyst: Focuses heavily on building and maintaining interactive dashboards to monitor company performance.
- * Product Analyst: Analyzes user behavior within a digital product (app or website) to understand how it's used and provide recommendations for improvement.
- * Marketing Analyst: Analyzes the performance of marketing campaigns, customer behavior, and market trends.
- * Financial Analyst: Analyzes the company's financial data to support investment and budget decisions.
+* Business Intelligence Analyst: Focuses heavily on building and maintaining interactive dashboards to monitor company performance.
+* Product Analyst: Analyzes user behavior within a digital product (app or website) to understand how it's used and provide recommendations for improvement.
+* Marketing Analyst: Analyzes the performance of marketing campaigns, customer behavior, and market trends.
+* Financial Analyst: Analyzes the company's financial data to support investment and budget decisions.
 
 ## 4. Expanded Key Concepts
 
- * Types of Analysis:
-     * `Descriptive Analytics`: Describes what happened in the past (e.g., "Our total sales were $1 million last month").
-     * `Diagnostic Analytics`: Investigates why something happened (e.g., "Sales decreased because a competitor launched a new product").
- * `KPI (Key Performance Indicator)`: A measurable value that demonstrates how effectively a company is achieving key business objectives (e.g., customer retention rate).
- * `Metric`: A specific measurement to track a particular aspect of performance (e.g., daily website visitors).
- * `Data Visualization`: The graphical representation of information. Using charts, graphs, and maps to see and understand trends, outliers, and patterns in data.
- * `Dashboard`: A dashboard that combines several visualizations and KPIs on a single screen to provide a comprehensive and quick overview.
- * `SQL`: Structured Query Language, the primary tool for a data analyst to pull data from relational databases.
- * Statistical Concepts: Mean, Median, Standard Deviation, and Correlation.
+* Types of Analysis:
+  * `Descriptive Analytics`: Describes what happened in the past (e.g., "Our total sales were $1 million last month").
+  * `Diagnostic Analytics`: Investigates why something happened (e.g., "Sales decreased because a competitor launched a new product").
+* `KPI (Key Performance Indicator)`: A measurable value that demonstrates how effectively a company is achieving key business objectives (e.g., customer retention rate).
+* `Metric`: A specific measurement to track a particular aspect of performance (e.g., daily website visitors).
+* `Data Visualization`: The graphical representation of information. Using charts, graphs, and maps to see and understand trends, outliers, and patterns in data.
+* `Dashboard`: A dashboard that combines several visualizations and KPIs on a single screen to provide a comprehensive and quick overview.
+* `SQL`: Structured Query Language, the primary tool for a data analyst to pull data from relational databases.
+* Statistical Concepts: Mean, Median, Standard Deviation, and Correlation.
 
 ## 5. Expanded Tools & Technologies
 
- * Business Intelligence and Visualization Tools: Tableau, Microsoft Power BI, Looker.
- * Spreadsheet Software: Microsoft Excel, Google Sheets (indispensable for quick analyses and ad-hoc tasks).
- * Query Language: SQL (in-depth).
- * Programming Languages (for advanced analysis): Python (with Pandas, NumPy, Matplotlib, Seaborn libraries), R.
- * Data Sources: They connect to various databases like PostgreSQL, MySQL and data warehouses like BigQuery, Snowflake.
+* Business Intelligence and Visualization Tools: Tableau, Microsoft Power BI, Looker.
+* Spreadsheet Software: Microsoft Excel, Google Sheets (indispensable for quick analyses and ad-hoc tasks).
+* Query Language: SQL (in-depth).
+* Programming Languages (for advanced analysis): Python (with Pandas, NumPy, Matplotlib, Seaborn libraries), R.
+* Data Sources: They connect to various databases like PostgreSQL, MySQL and data warehouses like BigQuery, Snowflake.
 
 ## 6. In-Depth Workflow
 
@@ -66,13 +67,14 @@ Project: The marketing team wants to understand the performance of their latest 
 
 ## 7. Common Job Roles
 
- * Data Analyst
- * Business Intelligence (BI) Analyst
- * Marketing Analyst
- * Financial Analyst
- * Product Analyst
+* Data Analyst
+* Business Intelligence (BI) Analyst
+* Marketing Analyst
+* Financial Analyst
+* Product Analyst
 
 ## 8. A-Z Glossary
+
 <details>
 <summary>Click to expand/collapse the glossary</summary>
 
@@ -100,3 +102,4 @@ Project: The marketing team wants to understand the performance of their latest 
 </details>
 
 [⬆️ Back to Table of Contents](README.md)
+

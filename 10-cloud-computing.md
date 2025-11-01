@@ -13,44 +13,45 @@ The best analogy: Instead of building your own power plant, you subscribe to the
 ## 2. What does the specialist do?
 
 A Cloud Engineer designs, builds, deploys, and manages applications and infrastructure on cloud platforms. Their tasks include:
- * Designing cloud solutions: Designing a secure, scalable, and highly available infrastructure on the cloud.
- * System Migration: Helping companies move their existing applications and infrastructure from on-premise servers to the cloud.
- * Managing Infrastructure as Code (IaC): Writing code to automatically create and manage cloud resources.
- * Cost Optimization: Monitoring and analyzing cloud spending and finding ways to reduce costs.
- * Ensuring Security and Compliance: Implementing security best practices to ensure the cloud environment is protected.
+
+* Designing cloud solutions: Designing a secure, scalable, and highly available infrastructure on the cloud.
+* System Migration: Helping companies move their existing applications and infrastructure from on-premise servers to the cloud.
+* Managing Infrastructure as Code (IaC): Writing code to automatically create and manage cloud resources.
+* Cost Optimization: Monitoring and analyzing cloud spending and finding ways to reduce costs.
+* Ensuring Security and Compliance: Implementing security best practices to ensure the cloud environment is protected.
 
 ## 3. Sub-domains
 
- * Cloud Architecture: Focuses on the high-level design of the cloud infrastructure.
- * Cloud Administration: Focuses on the day-to-day operations of managing the cloud environment.
- * Cloud Security: Specializes in protecting infrastructure and data on the cloud.
- * Cloud Networking: Specializes in designing and managing virtual networks within the cloud.
- * FinOps (Cloud Financial Management): A new specialization that focuses on managing and optimizing cloud costs.
+* Cloud Architecture: Focuses on the high-level design of the cloud infrastructure.
+* Cloud Administration: Focuses on the day-to-day operations of managing the cloud environment.
+* Cloud Security: Specializes in protecting infrastructure and data on the cloud.
+* Cloud Networking: Specializes in designing and managing virtual networks within the cloud.
+* FinOps (Cloud Financial Management): A new specialization that focuses on managing and optimizing cloud costs.
 
 ## 4. Expanded Key Concepts
 
- * "as a Service" Models:
-     * `IaaS (Infrastructure as a Service)`: You rent the basic infrastructure (virtual servers, storage). You manage the operating system and everything above it. (Example: AWS EC2).
-     * `PaaS (Platform as a Service)`: The provider manages the platform for you (OS, runtime environment). You just deploy your code. (Example: Heroku).
-     * `SaaS (Software as a Service)`: You use a complete, ready-made software over the internet. (Example: Gmail).
- * Deployment Models:
-     * `Public Cloud`: Resources are owned by the service provider and available to the public over the internet.
-     * `Private Cloud`: Resources are used exclusively by a single company.
-     * `Hybrid Cloud`: A mix of public and private clouds.
- * Core Cloud Principles:
-     * `Scalability & Elasticity`: The ability to scale (increase resources) and elasticity (automatically increase resources based on demand).
-     * `High Availability & Fault Tolerance`: Designing systems that remain operational even if some components fail, often by distributing them across different geographical regions.
- * `Serverless Computing`: An evolution of PaaS where the provider manages everything. You write your code as "Functions" that run only when called, and you pay only for the execution time in milliseconds. (Example: AWS Lambda).
+* "as a Service" Models:
+  * `IaaS (Infrastructure as a Service)`: You rent the basic infrastructure (virtual servers, storage). You manage the operating system and everything above it. (Example: AWS EC2).
+  * `PaaS (Platform as a Service)`: The provider manages the platform for you (OS, runtime environment). You just deploy your code. (Example: Heroku).
+  * `SaaS (Software as a Service)`: You use a complete, ready-made software over the internet. (Example: Gmail).
+* Deployment Models:
+  * `Public Cloud`: Resources are owned by the service provider and available to the public over the internet.
+  * `Private Cloud`: Resources are used exclusively by a single company.
+  * `Hybrid Cloud`: A mix of public and private clouds.
+* Core Cloud Principles:
+  * `Scalability & Elasticity`: The ability to scale (increase resources) and elasticity (automatically increase resources based on demand).
+  * `High Availability & Fault Tolerance`: Designing systems that remain operational even if some components fail, often by distributing them across different geographical regions.
+* `Serverless Computing`: An evolution of PaaS where the provider manages everything. You write your code as "Functions" that run only when called, and you pay only for the execution time in milliseconds. (Example: AWS Lambda).
 
 ## 5. Expanded Tools & Technologies
 
- * Cloud Providers: AWS (Amazon Web Services), Microsoft Azure, GCP (Google Cloud Platform).
- * Compute Services: AWS EC2, Azure VMs (IaaS); AWS Lambda, Azure Functions (Serverless).
- * Storage Services: AWS S3, Azure Blob Storage (Object Storage); AWS EBS (Block Storage).
- * Database Services: Amazon RDS (Managed SQL); Amazon DynamoDB (Managed NoSQL).
- * Networking Services: Amazon VPC (Virtual Networks); AWS ELB (Load Balancers).
- * Infrastructure as Code (IaC): Terraform, AWS CloudFormation.
- * Containers: Docker, and managed Kubernetes services like Amazon EKS, Azure AKS, Google GKE.
+* Cloud Providers: AWS (Amazon Web Services), Microsoft Azure, GCP (Google Cloud Platform).
+* Compute Services: AWS EC2, Azure VMs (IaaS); AWS Lambda, Azure Functions (Serverless).
+* Storage Services: AWS S3, Azure Blob Storage (Object Storage); AWS EBS (Block Storage).
+* Database Services: Amazon RDS (Managed SQL); Amazon DynamoDB (Managed NoSQL).
+* Networking Services: Amazon VPC (Virtual Networks); AWS ELB (Load Balancers).
+* Infrastructure as Code (IaC): Terraform, AWS CloudFormation.
+* Containers: Docker, and managed Kubernetes services like Amazon EKS, Azure AKS, Google GKE.
 
 ## 6. In-Depth Workflow
 
@@ -70,13 +71,14 @@ Project: Migrate a web application from an on-premise server to a scalable and h
 
 ## 7. Common Job Roles
 
- * Cloud Engineer
- * Cloud Architect
- * Cloud Support Engineer
- * Cloud Security Engineer
- * FinOps Specialist
+* Cloud Engineer
+* Cloud Architect
+* Cloud Support Engineer
+* Cloud Security Engineer
+* FinOps Specialist
 
 ## 8. A-Z Glossary
+
 <details>
 <summary>Click to expand/collapse the glossary</summary>
 
@@ -110,3 +112,4 @@ Project: Migrate a web application from an on-premise server to a scalable and h
 </details>
 
 [⬆️ Back to Table of Contents](README.md)
+

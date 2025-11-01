@@ -11,41 +11,42 @@ Simply put, if the data scientist "invents" the smart model, the ML engineer "bu
 ## 2. What does the specialist do?
 
 An ML engineer is the bridge between the experimental data science world and the real production environment. Their tasks include:
- * Turning models into products: Taking the experimental code (often from a Jupyter Notebook) from the data scientist, refactoring it, and turning it into robust, production-ready software.
- * Building automated pipelines: Creating automated systems for continuously collecting data, processing it, and training models (known as CI/CD/CT).
- * Model Deployment: Building APIs to serve model predictions and deploying them as scalable and reliable services.
- * Monitoring models in production: Building systems to monitor model performance over time and detect any degradation in its accuracy (a phenomenon called Model Drift).
- * Managing ML infrastructure: Building and managing the systems on which the models run, such as Kubernetes clusters equipped with GPUs.
+
+* Turning models into products: Taking the experimental code (often from a Jupyter Notebook) from the data scientist, refactoring it, and turning it into robust, production-ready software.
+* Building automated pipelines: Creating automated systems for continuously collecting data, processing it, and training models (known as CI/CD/CT).
+* Model Deployment: Building APIs to serve model predictions and deploying them as scalable and reliable services.
+* Monitoring models in production: Building systems to monitor model performance over time and detect any degradation in its accuracy (a phenomenon called Model Drift).
+* Managing ML infrastructure: Building and managing the systems on which the models run, such as Kubernetes clusters equipped with GPUs.
 
 ## 3. Sub-domains
 
- * ML Infrastructure: Focuses on building and managing the hardware and software needed to train and serve models.
- * ML Automation: Focuses on building CI/CD/CT pipelines for continuous training and deployment.
- * Model Serving: Specializes in deploying models to achieve the lowest possible latency and handle a high number of requests (High Throughput).
- * Model Monitoring: Focuses on building systems to track model accuracy, data drift, and other performance metrics in real-time.
+* ML Infrastructure: Focuses on building and managing the hardware and software needed to train and serve models.
+* ML Automation: Focuses on building CI/CD/CT pipelines for continuous training and deployment.
+* Model Serving: Specializes in deploying models to achieve the lowest possible latency and handle a high number of requests (High Throughput).
+* Model Monitoring: Focuses on building systems to track model accuracy, data drift, and other performance metrics in real-time.
 
 ## 4. Expanded Key Concepts
 
- * `MLOps Lifecycle`: The machine learning lifecycle, which is a continuous loop: Data Collection → Data Validation → Feature Engineering → Model Training → Model Analysis → Model Serving → Model Monitoring → (and back to the beginning).
- * `Reproducibility`: The ability to re-run any part of the process (data preparation, training) and get the exact same results. This is crucial for debugging and regulatory compliance.
- * `CI/CD/CT`:
-     * `Continuous Integration`: Continuously testing the code.
-     * `Continuous Delivery`: Continuously preparing a deployable release after CI succeeds.
-     * `Continuous Training`: Automatically retraining the model on new data.
- * `Experiment Tracking`: Recording everything about each training run: parameters, code version, data version, and results.
- * `Model Registry`: A central repository for storing, versioning, and managing trained models.
- * `Feature Store`: A central repository for production-ready engineered features that can be shared among different models.
- * `Model Drift`: The degradation of a model's performance over time because the characteristics of live production data have changed from the training data.
+* `MLOps Lifecycle`: The machine learning lifecycle, which is a continuous loop: Data Collection → Data Validation → Feature Engineering → Model Training → Model Analysis → Model Serving → Model Monitoring → (and back to the beginning).
+* `Reproducibility`: The ability to re-run any part of the process (data preparation, training) and get the exact same results. This is crucial for debugging and regulatory compliance.
+* `CI/CD/CT`:
+  * `Continuous Integration`: Continuously testing the code.
+  * `Continuous Delivery`: Continuously preparing a deployable release after CI succeeds.
+  * `Continuous Training`: Automatically retraining the model on new data.
+* `Experiment Tracking`: Recording everything about each training run: parameters, code version, data version, and results.
+* `Model Registry`: A central repository for storing, versioning, and managing trained models.
+* `Feature Store`: A central repository for production-ready engineered features that can be shared among different models.
+* `Model Drift`: The degradation of a model's performance over time because the characteristics of live production data have changed from the training data.
 
 ## 5. Expanded Tools & Technologies
 
- * Pipeline Orchestration: Kubeflow, Apache Airflow.
- * Experiment Tracking and Model Registry: MLflow, Weights & Biases (W&B).
- * Data and Feature Versioning: DVC (Data Version Control), Feast.
- * Model Serving: TensorFlow Serving, TorchServe, KServe.
- * Monitoring: Prometheus, Grafana, Evidently AI.
- * Infrastructure: Docker, Kubernetes (K8s).
- * Cloud Platforms: Amazon SageMaker, Google Vertex AI, Azure Machine Learning.
+* Pipeline Orchestration: Kubeflow, Apache Airflow.
+* Experiment Tracking and Model Registry: MLflow, Weights & Biases (W&B).
+* Data and Feature Versioning: DVC (Data Version Control), Feast.
+* Model Serving: TensorFlow Serving, TorchServe, KServe.
+* Monitoring: Prometheus, Grafana, Evidently AI.
+* Infrastructure: Docker, Kubernetes (K8s).
+* Cloud Platforms: Amazon SageMaker, Google Vertex AI, Azure Machine Learning.
 
 ## 6. In-Depth Workflow
 
@@ -69,11 +70,12 @@ Project: Turn the "Customer Churn Prediction Model" into a real product.
 
 ## 7. Common Job Roles
 
- * ML Engineer (Machine Learning Engineer)
- * MLOps Engineer
- * AI Platform Engineer (builds the infrastructure for AI teams).
+* ML Engineer (Machine Learning Engineer)
+* MLOps Engineer
+* AI Platform Engineer (builds the infrastructure for AI teams).
 
 ## 8. A-Z Glossary
+
 <details>
 <summary>Click to expand/collapse the glossary</summary>
 
@@ -97,3 +99,4 @@ Project: Turn the "Customer Churn Prediction Model" into a real product.
 </details>
 
 [⬆️ Back to Table of Contents](README.md)
+

@@ -7,48 +7,50 @@
 Cybersecurity is the practice and technology of protecting computer systems, networks, devices, and data from malicious attacks, damage, or unauthorized access. It is a continuous battle between defenders (Blue Team) and attackers (Red Team).
 
 The primary goal is to maintain the CIA Triad of information security:
- * `Confidentiality`: Ensuring that data is read only by authorized individuals.
- * `Integrity`: Ensuring that data is not tampered with or altered.
- * `Availability`: Ensuring that systems and data are available to legitimate users when needed.
+
+* `Confidentiality`: Ensuring that data is read only by authorized individuals.
+* `Integrity`: Ensuring that data is not tampered with or altered.
+* `Availability`: Ensuring that systems and data are available to legitimate users when needed.
 
 ## 2. What does the specialist do?
 
 A cybersecurity analyst or engineer is the "digital guardian." Their responsibilities are broad and include:
- * Monitoring systems: Monitoring networks and systems for any suspicious activity.
- * Incident response: Analyzing security alerts and responding immediately to incidents when they occur.
- * Vulnerability assessment: Conducting periodic assessments and penetration testing to find weaknesses before attackers do.
- * Managing security tools: Implementing and managing tools like firewalls, intrusion detection systems, and antivirus software.
- * Developing security policies: Writing and implementing security policies and procedures within the organization.
- * User awareness: Educating employees about security best practices to avoid attacks like phishing.
+
+* Monitoring systems: Monitoring networks and systems for any suspicious activity.
+* Incident response: Analyzing security alerts and responding immediately to incidents when they occur.
+* Vulnerability assessment: Conducting periodic assessments and penetration testing to find weaknesses before attackers do.
+* Managing security tools: Implementing and managing tools like firewalls, intrusion detection systems, and antivirus software.
+* Developing security policies: Writing and implementing security policies and procedures within the organization.
+* User awareness: Educating employees about security best practices to avoid attacks like phishing.
 
 ## 3. Sub-domains
 
- * Network Security: Focuses on securing the network infrastructure.
- * Application Security (AppSec): Focuses on finding and fixing vulnerabilities in software and application code.
- * Cloud Security: Specializes in securing cloud environments.
- * Incident Response: The "firefighters" who respond to security incidents as they happen.
- * Penetration Testing: The "ethical hacker" who simulates attacks to discover vulnerabilities.
- * Digital Forensics: Investigating after a breach to find out what happened and who is responsible.
- * Governance, Risk, and Compliance (GRC): Focuses on policies, standards, and legal requirements.
+* Network Security: Focuses on securing the network infrastructure.
+* Application Security (AppSec): Focuses on finding and fixing vulnerabilities in software and application code.
+* Cloud Security: Specializes in securing cloud environments.
+* Incident Response: The "firefighters" who respond to security incidents as they happen.
+* Penetration Testing: The "ethical hacker" who simulates attacks to discover vulnerabilities.
+* Digital Forensics: Investigating after a breach to find out what happened and who is responsible.
+* Governance, Risk, and Compliance (GRC): Focuses on policies, standards, and legal requirements.
 
 ## 4. Expanded Key Concepts
 
- * `Threat vs. Vulnerability vs. Risk`:
-     * `Threat`: A potential danger (e.g., a hacker).
-     * `Vulnerability`: A weakness that can be exploited (e.g., an unpatched server).
-     * `Risk`: The likelihood of a threat exploiting a vulnerability and the resulting impact.
- * `Defense in Depth`: A strategy of having multiple layers of protection. If one layer fails, another layer is there to stop the attack.
- * `Zero Trust`: A modern security model that assumes no user or device can be trusted by default, even if it is inside the network. It requires strict verification for every access request.
- * `Encryption`: Symmetric encryption (using one key) and Asymmetric encryption (using a pair of keys, public and private).
+* `Threat vs. Vulnerability vs. Risk`:
+  * `Threat`: A potential danger (e.g., a hacker).
+  * `Vulnerability`: A weakness that can be exploited (e.g., an unpatched server).
+  * `Risk`: The likelihood of a threat exploiting a vulnerability and the resulting impact.
+* `Defense in Depth`: A strategy of having multiple layers of protection. If one layer fails, another layer is there to stop the attack.
+* `Zero Trust`: A modern security model that assumes no user or device can be trusted by default, even if it is inside the network. It requires strict verification for every access request.
+* `Encryption`: Symmetric encryption (using one key) and Asymmetric encryption (using a pair of keys, public and private).
 
 ## 5. Expanded Tools & Technologies
 
- * Network Security: Firewalls, IDS/IPS (Intrusion Detection/Prevention Systems like Snort), VPNs.
- * Endpoint Security: Antivirus/EDR (Advanced antivirus solutions like CrowdStrike).
- * Security Information and Event Management (SIEM): Splunk, QRadar (for analyzing security logs from multiple sources).
- * Vulnerability Scanning: Nessus, Qualys.
- * Penetration Testing: Metasploit, Burp Suite, Nmap, and the Kali Linux operating system.
- * Authentication: MFA/2FA (Multi-Factor Authentication), OAuth, SAML.
+* Network Security: Firewalls, IDS/IPS (Intrusion Detection/Prevention Systems like Snort), VPNs.
+* Endpoint Security: Antivirus/EDR (Advanced antivirus solutions like CrowdStrike).
+* Security Information and Event Management (SIEM): Splunk, QRadar (for analyzing security logs from multiple sources).
+* Vulnerability Scanning: Nessus, Qualys.
+* Penetration Testing: Metasploit, Burp Suite, Nmap, and the Kali Linux operating system.
+* Authentication: MFA/2FA (Multi-Factor Authentication), OAuth, SAML.
 
 ## 6. In-Depth Workflow
 
@@ -66,14 +68,15 @@ Project: A security analyst responds to a potential breach incident.
 
 ## 7. Common Job Roles
 
- * Security Analyst (SOC Analyst)
- * Penetration Tester (Ethical Hacker)
- * Security Engineer
- * Incident Responder
- * Digital Forensics Analyst
- * Security Architect
+* Security Analyst (SOC Analyst)
+* Penetration Tester (Ethical Hacker)
+* Security Engineer
+* Incident Responder
+* Digital Forensics Analyst
+* Security Architect
 
 ## 8. A-Z Glossary
+
 <details>
 <summary>Click to expand/collapse the glossary</summary>
 
@@ -105,3 +108,4 @@ Project: A security analyst responds to a potential breach incident.
 </details>
 
 [⬆️ Back to Table of Contents](README.md)
+

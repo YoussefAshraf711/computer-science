@@ -11,42 +11,43 @@ The best analogy: If data is the "treasure," the DBA is the "treasurer" and "gua
 ## 2. What does the specialist do?
 
 A Database Administrator is responsible for the entire database lifecycle:
- * Installation and Configuration: Installing and configuring database software (like PostgreSQL, Oracle).
- * Performance Tuning: Monitoring database performance and optimizing slow queries to ensure fast application response.
- * Backup & Recovery: Designing and implementing a strategy for regular backups and being able to restore the database in case of failure.
- * Security: Managing user accounts and their permissions, and applying security policies to protect data from unauthorized access.
- * High Availability and Disaster Recovery: Setting up systems like Replication and Clustering to ensure the database remains available even if a server fails.
- * Schema Management: Working with developers to design and modify the database schema (tables, columns, indexes).
+
+* Installation and Configuration: Installing and configuring database software (like PostgreSQL, Oracle).
+* Performance Tuning: Monitoring database performance and optimizing slow queries to ensure fast application response.
+* Backup & Recovery: Designing and implementing a strategy for regular backups and being able to restore the database in case of failure.
+* Security: Managing user accounts and their permissions, and applying security policies to protect data from unauthorized access.
+* High Availability and Disaster Recovery: Setting up systems like Replication and Clustering to ensure the database remains available even if a server fails.
+* Schema Management: Working with developers to design and modify the database schema (tables, columns, indexes).
 
 ## 3. Sub-domains
 
- * Development DBA: Works closely with development teams to help them design schemas and write efficient queries.
- * Production DBA: Focuses on managing live databases in the production environment. Responsible for uptime, backups, and live system performance.
- * Database Architect: An advanced role that focuses on designing the high-level data architecture for the entire organization.
- * Cloud DBA: Specializes in managing managed database services in the cloud (like Amazon RDS).
+* Development DBA: Works closely with development teams to help them design schemas and write efficient queries.
+* Production DBA: Focuses on managing live databases in the production environment. Responsible for uptime, backups, and live system performance.
+* Database Architect: An advanced role that focuses on designing the high-level data architecture for the entire organization.
+* Cloud DBA: Specializes in managing managed database services in the cloud (like Amazon RDS).
 
 ## 4. Expanded Key Concepts
 
- * `DBMS (Database Management System)`: The software used to manage databases (e.g., PostgreSQL, Oracle).
- * `Indexes`: A special data structure that significantly improves the speed of data retrieval operations. It is the most important concept in performance tuning.
- * `Query Plan`: The steps that the database system decides to take to execute an SQL query. The DBA analyzes these plans to find and fix slow queries.
- * `Transactions` and `ACID` properties: A "transaction" is a series of operations performed as a single logical unit of work. ACID are the properties (Atomicity, Consistency, Isolation, Durability) that ensure transactions are processed reliably.
- * `Backup & Recovery`:
-     * `Full Backup`: A complete copy of the database.
-     * `Incremental Backup`: Copies changes that have occurred since the last backup.
-     * `Point-in-Time Recovery (PITR)`: The ability to restore a database to a specific moment in time.
- * `High Availability (HA)` and `Replication`:
-     * `Replication`: The process of copying data from a primary database server to one or more secondary servers.
-     * `Failover`: The process of automatically switching to a secondary server if the primary server fails.
+* `DBMS (Database Management System)`: The software used to manage databases (e.g., PostgreSQL, Oracle).
+* `Indexes`: A special data structure that significantly improves the speed of data retrieval operations. It is the most important concept in performance tuning.
+* `Query Plan`: The steps that the database system decides to take to execute an SQL query. The DBA analyzes these plans to find and fix slow queries.
+* `Transactions` and `ACID` properties: A "transaction" is a series of operations performed as a single logical unit of work. ACID are the properties (Atomicity, Consistency, Isolation, Durability) that ensure transactions are processed reliably.
+* `Backup & Recovery`:
+  * `Full Backup`: A complete copy of the database.
+  * `Incremental Backup`: Copies changes that have occurred since the last backup.
+  * `Point-in-Time Recovery (PITR)`: The ability to restore a database to a specific moment in time.
+* `High Availability (HA)` and `Replication`:
+  * `Replication`: The process of copying data from a primary database server to one or more secondary servers.
+  * `Failover`: The process of automatically switching to a secondary server if the primary server fails.
 
 ## 5. Expanded Tools & Technologies
 
- * Relational Database Systems: PostgreSQL, MySQL, Oracle Database, Microsoft SQL Server.
- * NoSQL Database Systems: MongoDB, Cassandra, Redis.
- * Query and Management Tools: pgAdmin (for PostgreSQL), MySQL Workbench, DBeaver.
- * Performance Monitoring Tools: `pg_stat_statements`, Oracle Enterprise Manager.
- * Backup Tools: `pg_dump`, `mysqldump`.
- * Cloud Services: Amazon RDS, Azure SQL Database, Google Cloud SQL.
+* Relational Database Systems: PostgreSQL, MySQL, Oracle Database, Microsoft SQL Server.
+* NoSQL Database Systems: MongoDB, Cassandra, Redis.
+* Query and Management Tools: pgAdmin (for PostgreSQL), MySQL Workbench, DBeaver.
+* Performance Monitoring Tools: `pg_stat_statements`, Oracle Enterprise Manager.
+* Backup Tools: `pg_dump`, `mysqldump`.
+* Cloud Services: Amazon RDS, Azure SQL Database, Google Cloud SQL.
 
 ## 6. In-Depth Workflow
 
@@ -61,12 +62,13 @@ Project: A developer reports that the "User Dashboard" page in the application h
 
 ## 7. Common Job Roles
 
- * Database Administrator (DBA)
- * Database Developer (focuses on writing stored procedures and complex queries).
- * Database Architect
- * Cloud Database Engineer
+* Database Administrator (DBA)
+* Database Developer (focuses on writing stored procedures and complex queries).
+* Database Architect
+* Cloud Database Engineer
 
 ## 8. A-Z Glossary
+
 <details>
 <summary>Click to expand/collapse the glossary</summary>
 

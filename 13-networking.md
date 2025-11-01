@@ -11,45 +11,46 @@ The best analogy: Imagine it as the global postal and logistics system, but for 
 ## 2. What does the specialist do?
 
 A Network Engineer is responsible for designing, implementing, maintaining, and securing the computer networks that organizations rely on. Their tasks include:
- * Configuring network devices: Setting up devices like Routers, Switches, and Firewalls.
- * Designing networks: Designing the network layout, IP addressing schemes, and segmenting the network into subnets.
- * Monitoring network performance: Monitoring data traffic to identify bottlenecks and ensure network speed.
- * Troubleshooting: Diagnosing and resolving connectivity issues.
- * Implementing security policies: Enforcing security rules on the network to prevent unauthorized access.
+
+* Configuring network devices: Setting up devices like Routers, Switches, and Firewalls.
+* Designing networks: Designing the network layout, IP addressing schemes, and segmenting the network into subnets.
+* Monitoring network performance: Monitoring data traffic to identify bottlenecks and ensure network speed.
+* Troubleshooting: Diagnosing and resolving connectivity issues.
+* Implementing security policies: Enforcing security rules on the network to prevent unauthorized access.
 
 ## 3. Sub-domains
 
- * Enterprise Networking: Managing the internal networks of large companies.
- * Data Center Networking: Designing ultra-high-speed networks within data centers.
- * Service Provider Networking: Working for Internet Service Providers (ISPs) to build and manage the core infrastructure of the internet.
- * Network Security: A specialization that focuses on protecting the network itself (overlaps with Cybersecurity).
- * Wireless Networking: Specializing in Wi-Fi and other wireless technologies.
+* Enterprise Networking: Managing the internal networks of large companies.
+* Data Center Networking: Designing ultra-high-speed networks within data centers.
+* Service Provider Networking: Working for Internet Service Providers (ISPs) to build and manage the core infrastructure of the internet.
+* Network Security: A specialization that focuses on protecting the network itself (overlaps with Cybersecurity).
+* Wireless Networking: Specializing in Wi-Fi and other wireless technologies.
 
 ## 4. Expanded Key Concepts
 
- * Networking Models (OSI & TCP/IP):
-     * `OSI Model`: A theoretical 7-layer model to standardize network functions. It is a reference for study and understanding.
-     * `TCP/IP Model`: A practical 4-layer model on which the internet is built.
- * Addressing:
-     * `IP Address`: The logical address of a device on the network (e.g., 192.168.1.10). There are two versions: IPv4 (old) and IPv6 (new).
-     * `MAC Address`: The unique physical address of a network card, which does not change.
-     * `Subnet Mask`: Used to divide a large network into smaller subnets.
- * Core Protocols:
-     * `IP`: Responsible for routing "Packets" to the correct address.
-     * `TCP`: Provides a reliable, ordered, and error-free connection (like registered mail).
-     * `UDP`: Provides a fast but unreliable connection (like a postcard).
-     * `DNS`: The "phone book of the internet" that translates domain names (like google.com) into IP addresses.
-     * `DHCP`: Automatically assigns IP addresses to devices on the network.
- * Network Devices: Router (connects different networks), Switch (connects devices on the same network), Firewall (for protection).
+* Networking Models (OSI & TCP/IP):
+  * `OSI Model`: A theoretical 7-layer model to standardize network functions. It is a reference for study and understanding.
+  * `TCP/IP Model`: A practical 4-layer model on which the internet is built.
+* Addressing:
+  * `IP Address`: The logical address of a device on the network (e.g., 192.168.1.10). There are two versions: IPv4 (old) and IPv6 (new).
+  * `MAC Address`: The unique physical address of a network card, which does not change.
+  * `Subnet Mask`: Used to divide a large network into smaller subnets.
+* Core Protocols:
+  * `IP`: Responsible for routing "Packets" to the correct address.
+  * `TCP`: Provides a reliable, ordered, and error-free connection (like registered mail).
+  * `UDP`: Provides a fast but unreliable connection (like a postcard).
+  * `DNS`: The "phone book of the internet" that translates domain names (like google.com) into IP addresses.
+  * `DHCP`: Automatically assigns IP addresses to devices on the network.
+* Network Devices: Router (connects different networks), Switch (connects devices on the same network), Firewall (for protection).
 
 ## 5. Expanded Tools & Technologies
 
- * Hardware Vendors: Cisco, Juniper, Arista.
- * Network Analysis Tools: Wireshark (for packet analysis), tcpdump.
- * Network Scanning Tools: Nmap.
- * Command-Line Tools: ping, traceroute, ipconfig/ifconfig, netstat.
- * Simulation Software: Cisco Packet Tracer, GNS3.
- * Monitoring Tools: Nagios, Zabbix.
+* Hardware Vendors: Cisco, Juniper, Arista.
+* Network Analysis Tools: Wireshark (for packet analysis), tcpdump.
+* Network Scanning Tools: Nmap.
+* Command-Line Tools: ping, traceroute, ipconfig/ifconfig, netstat.
+* Simulation Software: Cisco Packet Tracer, GNS3.
+* Monitoring Tools: Nagios, Zabbix.
 
 ## 6. In-Depth Workflow
 
@@ -57,7 +58,7 @@ Project: A new employee has joined the company and needs to connect their comput
 
  1. Physical Connection: The network engineer ensures an available network port and connects the employee's computer to the port via an Ethernet cable. This port is connected to a Switch in the server room.
  2. Obtaining an IP Address (via DHCP): When the computer starts, it sends a broadcast message on the local network saying, "I'm new here, can I have an IP address?" The DHCP server responds and offers an available IP address (e.g., 10.1.2.55), a subnet mask, and the default gateway address (the router).
- 3. Accessing the Internet: The employee opens a browser and types www.google.com.
+ 3. Accessing the Internet: The employee opens a browser and types <www.google.com>.
      * DNS Query: The computer doesn't know Google's IP, so it sends a query to the local DNS server, which looks up the IP and returns it to the computer.
      * Routing: The browser creates an HTTP packet destined for Google's IP. Since this IP is outside the local network, the computer sends the packet to the "default gateway" (the office's main router).
      * Packet Journey: The router forwards the packet to the next router in the ISP's network, and the packet hops from router to router across the internet until it reaches Google's data center.
@@ -70,12 +71,13 @@ Project: A new employee has joined the company and needs to connect their comput
 
 ## 7. Common Job Roles
 
- * Network Engineer
- * Network Administrator
- * Network Architect
- * Network Security Engineer
+* Network Engineer
+* Network Administrator
+* Network Architect
+* Network Security Engineer
 
 ## 8. A-Z Glossary
+
 <details>
 <summary>Click to expand/collapse the glossary</summary>
 
@@ -110,3 +112,4 @@ Project: A new employee has joined the company and needs to connect their comput
 </details>
 
 [⬆️ Back to Table of Contents](README.md)
+
