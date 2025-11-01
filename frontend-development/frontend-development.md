@@ -1,4 +1,4 @@
-[العربي](./02-frontend-development_ar.md)
+[العربي](./frontend-development_ar.md)
 
 # <a name="-2-frontend-development"></a>🖼️ Chapter 2: Frontend Development
 
@@ -108,5 +108,5 @@ Project: Build a "User Profile" page.
 
 </details>
 
-[⬆️ Back to Table of Contents](README.md)
+[⬆️ Back to Table of Contents](../README.md)
 
