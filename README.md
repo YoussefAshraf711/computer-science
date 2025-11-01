@@ -13,32 +13,6 @@ Welcome to our comprehensive Computer Science learning repository! This project 
 
 ## 📚 Learning Tracks
 
-- [Frontend Development](./02-frontend-development/) - Web interfaces, UI frameworks, and user experience
-- [Backend Development](./03-backend-development/) - Server-side programming, APIs, and databases
-- [Mobile Development](./04-mobile-development/) - iOS, Android, and cross-platform development
-- [Game Development](./05-game-development/) - Game engines, graphics, and interactive experiences
-- [Data Engineering](./06-data-engineering/) - Data pipelines, ETL processes, and big data
-- [Data Analysis](./07-data-analysis/) - Statistical analysis and data visualization
-- [Data Science](./08-data-science/) - Machine learning, statistics, and scientific computing
-- [ML Engineering and MLOps](./09-ml-engineering-and-mlops/) - ML systems and deployment
-- [Cloud Computing](./10-cloud-computing/) - Cloud platforms and distributed systems
-- [DevOps Engineering](./11-devops-engineering/) - CI/CD, infrastructure, and automation
-- [Networking](./13-networking/) - Network protocols and system architecture
-- [Cybersecurity](./14-cybersecurity/) - Security principles and best practices
-- [Embedded Systems](./15-embedded-systems/) - Hardware interfaces and systems programming
-
-## 🌟 Features
-
-- Detailed explanations of core concepts
-- Practical examples and use cases
-- Career guidance and industry insights
-- Bilingual support (English/Arabic)
-- Regular updates and community contributions
-
-## 📖 How to Use This Repository
-
-1. Choose a learning track that interests you
-2. Start with the introduction section in each track
 3. Follow the structured lessons and exercises
 4. Practice with provided examples
 5. Explore additional resources and references
