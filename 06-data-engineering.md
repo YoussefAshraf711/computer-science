@@ -92,4 +92,3 @@ Project: Build a nightly pipeline to collect sales data from the application's d
 </details>
 
 [⬆️ Back to Table of Contents](README.md)
-
