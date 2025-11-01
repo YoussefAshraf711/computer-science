@@ -1,4 +1,4 @@
-[العربي](./04-mobile-development_ar.md)
+[العربي](./mobile-development_ar.md)
 
 # <a name="-4-mobile-development"></a>📱 Chapter 4: Mobile Development
 
@@ -105,5 +105,5 @@ Methodology: Native Development using Swift and SwiftUI.
 
 </details>
 
-[⬆️ Back to Table of Contents](README.md)
+[⬆️ Back to Table of Contents](../README.md)
 

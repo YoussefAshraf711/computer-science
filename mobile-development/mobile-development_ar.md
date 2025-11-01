@@ -1,4 +1,4 @@
-[English](./04-mobile-development.md)
+[English](./mobile-development.md)
 
 # <a name="-4-تطوير-تطبيقات-الموبايل-mobile-development"></a>📱 الفصل 4: تطوير تطبيقات الموبايل (Mobile Development)
 
@@ -113,4 +113,4 @@
 
 </details>
 
-[⬆️ العودة إلى الفهرس](README_AR.md)
+[⬆️ العودة إلى الفهرس](../README_ar.md)
