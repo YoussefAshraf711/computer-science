@@ -94,12 +94,14 @@ This repository is ideal for:
 
 ---
 
-### 🧩 [ML Engineering & MLOps](./ml-engineering-and-mlops/)
-**Overview:** Deploy and maintain production ML systems.  
-**Prerequisites:** Data science and software engineering basics.  
-**You’ll Learn:** CI/CD for ML, model packaging, monitoring, and scaling.
+### 🤖 [Artificial Intelligence](./AI/)
+**Overview:** Dive into the world of Artificial Intelligence and its core disciplines.  
+**Prerequisites:** Mathematics (Linear Algebra, Calculus, Statistics) and Python programming.  
+**You’ll Learn:** Machine Learning, Deep Learning, NLP, Computer Vision, MLOps, Reinforcement Learning, and AI Safety.
 
 ---
+
+
 
 ### ☁️ [Cloud Computing](./cloud-computing/)
 **Overview:** Learn cloud platforms and distributed systems.  
