@@ -1,4 +1,4 @@
-[English](./14-cybersecurity.md)
+[English](./cybersecurity.md)
 
 # <a name="-14-أمن-المعلومات-cybersecurity"></a>🔒 الفصل 14: أمن المعلومات (Cybersecurity)
 
@@ -115,4 +115,4 @@
 
 </details>
 
-[⬆️ العودة إلى الفهرس](README_AR.md)
+[⬆️ العودة إلى الفهرس](../README_ar.md)

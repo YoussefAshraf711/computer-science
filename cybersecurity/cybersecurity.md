@@ -1,4 +1,4 @@
-[العربي](./14-cybersecurity_ar.md)
+[العربي](./cybersecurity_ar.md)
 
 # <a name="-14-cybersecurity"></a>🔒 Chapter 14: Cybersecurity
 
@@ -107,5 +107,5 @@ Project: A security analyst responds to a potential breach incident.
 
 </details>
 
-[⬆️ Back to Table of Contents](README.md)
+[⬆️ Back to Table of Contents](../README.md)
 
