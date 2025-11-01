@@ -1,4 +1,4 @@
-[العربي](./13-networking_ar.md)
+[العربي](./networking_ar.md)
 
 # <a name="-13-networking"></a>🌐 Chapter 13: Networking
 
@@ -111,5 +111,5 @@ Project: A new employee has joined the company and needs to connect their comput
 
 </details>
 
-[⬆️ Back to Table of Contents](README.md)
+[⬆️ Back to Table of Contents](../README.md)
 

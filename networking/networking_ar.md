@@ -1,4 +1,4 @@
-[English](./13-networking.md)
+[English](./networking.md)
 
 # <a name="-13-الشبكات-networking"></a>🌐 الفصل 13: الشبكات (Networking)
 
@@ -117,4 +117,4 @@
 
 </details>
 
-[⬆️ العودة إلى الفهرس](README_AR.md)
+[⬆️ العودة إلى الفهرس](../README_ar.md)
