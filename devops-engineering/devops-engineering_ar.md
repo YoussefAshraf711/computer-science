@@ -1,4 +1,4 @@
-[English](./11-devops-engineering.md)
+[English](./devops-engineering.md)
 
 # <a name="-11-هندسة-الـ-devops"></a>🚀 الفصل 11: هندسة الـ DevOps
 
@@ -110,4 +110,4 @@
 
 </details>
 
-[⬆️ العودة إلى الفهرس](README_AR.md)
+[⬆️ العودة إلى الفهرس](../README_ar.md)

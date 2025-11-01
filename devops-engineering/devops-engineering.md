@@ -1,4 +1,4 @@
-[العربي](./11-devops-engineering_ar.md)
+[العربي](./devops-engineering_ar.md)
 
 # <a name="-11-devops-engineering"></a>🚀 Chapter 11: DevOps Engineering
 
@@ -99,5 +99,5 @@ Project: A developer has finished the "Login with Google" feature and created a 
 
 </details>
 
-[⬆️ Back to Table of Contents](README.md)
+[⬆️ Back to Table of Contents](../README.md)
 
