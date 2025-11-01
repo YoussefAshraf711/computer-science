@@ -1,4 +1,4 @@
-[English](./07-data-analysis.md)
+[English](./data-analysis.md)
 
 # <a name="-7-تحليل-البيانات-data-analysis"></a>📈 الفصل 7: تحليل البيانات (Data Analysis)
 
@@ -109,4 +109,4 @@
 
 </details>
 
-[⬆️ العودة إلى الفهرس](README_AR.md)
+[⬆️ العودة إلى الفهرس](../README_ar.md)

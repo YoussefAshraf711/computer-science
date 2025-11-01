@@ -1,4 +1,4 @@
-[العربي](./07-data-analysis_ar.md)
+[العربي](./data-analysis_ar.md)
 
 # <a name="-7-data-analysis"></a>📈 Chapter 7: Data Analysis
 
@@ -101,5 +101,5 @@ Project: The marketing team wants to understand the performance of their latest 
 
 </details>
 
-[⬆️ Back to Table of Contents](README.md)
+[⬆️ Back to Table of Contents](../README.md)
 
