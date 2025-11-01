@@ -1,4 +1,4 @@
-[العربي](./10-cloud-computing_ar.md)
+[العربي](./cloud-computing_ar.md)
 
 # <a name="-10-cloud-computing"></a>☁️ Chapter 10: Cloud Computing
 
@@ -111,5 +111,5 @@ Project: Migrate a web application from an on-premise server to a scalable and h
 
 </details>
 
-[⬆️ Back to Table of Contents](README.md)
+[⬆️ Back to Table of Contents](../README.md)
 

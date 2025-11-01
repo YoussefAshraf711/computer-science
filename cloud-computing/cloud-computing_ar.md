@@ -1,4 +1,4 @@
-[English](./10-cloud-computing.md)
+[English](./cloud-computing.md)
 
 # <a name="-10-الحوسبة-السحابية-cloud-computing"></a>☁️ الفصل 10: الحوسبة السحابية (Cloud Computing)
 
@@ -119,4 +119,4 @@
 
 </details>
 
-[⬆️ العودة إلى الفهرس](README_AR.md)
+[⬆️ العودة إلى الفهرس](../README_ar.md)
