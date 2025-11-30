@@ -1,9 +1,35 @@
 # 🚀 A Comprehensive Guide to Computer Science Specializations
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
 🌍 **Languages:** [English](README.md) | [العربية](README_ar.md)
 
 Welcome to our comprehensive **Computer Science Learning Repository!**  
 This project provides structured, beginner-friendly guides to key fields in computer science and software engineering.
+
+```mermaid
+graph TD
+    CS[Computer Science] --> Dev[Software Development]
+    CS --> Data[Data & AI]
+    CS --> Infra[Infrastructure & Security]
+
+    Dev --> FE[Frontend]
+    Dev --> BE[Backend]
+    Dev --> Mobile
+    Dev --> Game
+
+    Data --> DS[Data Science]
+    Data --> DA[Data Analysis]
+    Data --> DE[Data Engineering]
+    Data --> AI[Artificial Intelligence]
+
+    Infra --> Cloud
+    Infra --> DevOps
+    Infra --> Net[Networking]
+    Infra --> Sec[Cybersecurity]
+    Infra --> Emb[Embedded Systems]
+```
 
 ---
 
@@ -45,28 +71,28 @@ This repository is ideal for:
 
 ## 📚 Learning Tracks
 
-### 💻 [Frontend Development](./frontend-development/)
+### 💻 [Frontend Development](software-engineer/frontend-development.md)
 **Overview:** Build modern, interactive web interfaces.  
 **Prerequisites:** Basic HTML, CSS, and JavaScript.  
 **You’ll Learn:** DOM manipulation, responsive design, React/Vue/Angular basics, testing, and tooling.
 
 ---
 
-### ⚙️ [Backend Development](./backend-development/)
+### ⚙️ [Backend Development](software-engineer/backend-development.md)
 **Overview:** Server-side programming and API design.  
 **Prerequisites:** Programming and networking fundamentals.  
 **You’ll Learn:** REST/GraphQL APIs, authentication, databases, and deployment.
 
 ---
 
-### 📱 [Mobile Development](./mobile-development/)
+### 📱 [Mobile Development](software-engineer/mobile-development.md)
 **Overview:** Create native and cross-platform mobile apps.  
 **Prerequisites:** JavaScript, Kotlin, Swift, or Dart.  
 **You’ll Learn:** App lifecycle, UI frameworks (React Native, Flutter), and platform tooling.
 
 ---
 
-### 🎮 [Game Development](./game-development/)
+### 🎮 [Game Development](software-engineer/game-development.md)
 **Overview:** Learn game design and development fundamentals.  
 **Prerequisites:** Basic programming and math.  
 **You’ll Learn:** Game loops, Unity/Unreal engines, rendering, and asset pipelines.
