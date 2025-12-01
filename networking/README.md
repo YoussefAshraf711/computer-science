@@ -1,6 +1,6 @@
 # 🌐 Networking Roadmap
 
-> **Languages:** [English](README.md) | [العربية](networking_ar.md)
+> **Languages:** [English](README.md) | [العربية](README_ar.md)
 
 Welcome to the **Networking** track! This section covers the fundamental concepts of computer networking, from how the internet works to advanced protocols and security.
 
