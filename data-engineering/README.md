@@ -1,43 +1,43 @@
-# 🧱 Data Engineering
+# 📊 Data Analysis
 
-Welcome to the **Data Engineering** track! Learn to design and build systems for collecting, storing, and analyzing data at scale.
+> **Languages:** [English](README.md) | [العربية](README_ar.md)
+
+Welcome to the **Data Analysis** track! Focus on inspecting, cleansing, transforming, and modeling data to discover useful information.
 
 ## 🗺️ Roadmap
 
 ```mermaid
 graph TD
-    DE[Data Engineering] --> Lang[Languages]
-    DE --> DB[Databases]
-    DE --> Pipe[Pipelines]
-    DE --> Big[Big Data]
+    DA[Data Analysis] --> Col[Data Collection]
+    DA --> Clean[Data Cleaning]
+    DA --> EDA[Exploratory Analysis]
+    DA --> Viz[Visualization]
+    DA --> Rep[Reporting]
 
-    Lang --> Py[Python]
-    Lang --> Scala
-    Lang --> SQL
+    Col --> SQL
+    Col --> Excel
+    Col --> APIs
 
-    DB --> Rel[Relational (Postgres)]
-    DB --> NoSQL[NoSQL (Mongo/Cassandra)]
-    DB --> WH[Warehousing (Snowflake)]
+    Clean --> Pandas[Python Pandas]
+    Clean --> Tidy[R Tidyverse]
 
-    Pipe --> Air[Airflow]
-    Pipe --> Kafka
-    Pipe --> ETL
+    EDA --> Stats[Descriptive Stats]
+    EDA --> Hyp[Hypothesis Testing]
 
-    Big --> Spark
-    Big --> Hadoop
-    Big --> Cloud[AWS/GCP/Azure]
+    Viz --> Dash[Dashboards]
+    Viz --> Story[Data Storytelling]
 ```
 
 ## 📚 Core Content
 
-- **[Data Engineering Guide (English)](data-engineering.md)**
-- **[دليل هندسة البيانات (العربية)](data-engineering_ar.md)**
+- **[Data Analysis Guide (English)](data-analysis.md)**
+- **[دليل تحليل البيانات (العربية)](data-analysis_ar.md)**
 
 ## 🛠️ Projects
 
-- **ETL Pipeline**: Build a pipeline to extract data from an API, transform it, and load it into a database.
-- **Data Warehouse**: Design a schema and populate a data warehouse.
-- **Real-time Streaming**: Process a stream of data using Kafka and Spark.
+- **Sales Dashboard**: Create an interactive dashboard for sales data.
+- **Web Scraper**: Scrape data from a website and analyze it.
+- **Survey Analysis**: Analyze and visualize results from a survey.
 
 ---
 
