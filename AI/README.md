@@ -1,6 +1,6 @@
 # AI Guide — README
 
-> **Languages:** [English](README.md) | [العربية](README_AI_ar.md)
+> **Languages:** [English](README.md) | [العربية](README_ar.md)
 
 > This is the simplified main entry README for the `AI/` folder. It provides a focused overview of the core AI specialties and direct links to the detailed Markdown files.
 
