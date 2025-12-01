@@ -1,5 +1,7 @@
 # 🔧 DevOps Engineering
 
+> **Languages:** [English](README.md) | [العربية](README_ar.md)
+
 Welcome to the **DevOps Engineering** track! Bridge the gap between development and operations to automate and improve the software delivery process.
 
 ## 🗺️ Roadmap
