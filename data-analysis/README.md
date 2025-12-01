@@ -1,5 +1,7 @@
 # 📊 Data Analysis
 
+> **Languages:** [English](README.md) | [العربية](README_ar.md)
+
 Welcome to the **Data Analysis** track! Focus on inspecting, cleansing, transforming, and modeling data to discover useful information.
 
 ## 🗺️ Roadmap
