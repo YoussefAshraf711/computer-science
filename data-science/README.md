@@ -1,5 +1,7 @@
 # 🤖 Data Science
 
+> **Languages:** [English](README.md) | [العربية](README_ar.md)
+
 Welcome to the **Data Science** track! Learn how to extract meaning from data using scientific methods, algorithms, and systems.
 
 ## 🗺️ Roadmap
