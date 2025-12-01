@@ -1,5 +1,7 @@
 # 💻 Software Engineering
 
+> **Languages:** [English](README.md) | [العربية](README_ar.md)
+
 Welcome to the **Software Engineering** hub! This directory covers the core pillars of application development.
 
 ## 🗺️ Roadmap
