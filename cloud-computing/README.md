@@ -1,5 +1,7 @@
 # ☁️ Cloud Computing
 
+> **Languages:** [English](README.md) | [العربية](README_ar.md)
+
 Welcome to the **Cloud Computing** track! Master the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet.
 
 ## 🗺️ Roadmap
