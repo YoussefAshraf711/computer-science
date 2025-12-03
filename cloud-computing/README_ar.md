@@ -20,9 +20,9 @@ graph TD
     Prov --> Azure
     Prov --> GCP
 
-    Serv --> Comp[الحوسبة (EC2)]
-    Serv --> Stor[التخزين (S3)]
-    Serv --> DB[قواعد البيانات (RDS)]
+    Serv --> Comp["الحوسبة (EC2)"]
+    Serv --> Stor["التخزين (S3)"]
+    Serv --> DB["قواعد البيانات (RDS)"]
 
     Arch --> HA[التوافر العالي]
     Arch --> Scale[القابلية للتوسع]

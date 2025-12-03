@@ -20,9 +20,9 @@ graph TD
     Prov --> Azure
     Prov --> GCP
 
-    Serv --> Comp[Compute (EC2)]
-    Serv --> Stor[Storage (S3)]
-    Serv --> DB[Databases (RDS)]
+    Serv --> Comp["Compute (EC2)"]
+    Serv --> Stor["Storage (S3)"]
+    Serv --> DB["Databases (RDS)"]
 
     Arch --> HA[High Availability]
     Arch --> Scale[Scalability]
