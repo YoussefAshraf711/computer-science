@@ -99,5 +99,5 @@ Project: A developer has finished the "Login with Google" feature and created a 
 
 </details>
 
-[⬆️ Back to Table of Contents](../README.md)
+[⬆️ Back to Table of Contents](README.md)
 
