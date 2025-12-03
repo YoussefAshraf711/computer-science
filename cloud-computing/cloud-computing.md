@@ -111,5 +111,5 @@ Project: Migrate a web application from an on-premise server to a scalable and h
 
 </details>
 
-[⬆️ Back to Table of Contents](../README.md)
+[⬆️ Back to Table of Contents](README.md)
 
