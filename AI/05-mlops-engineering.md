@@ -54,4 +54,4 @@ An MLOps engineer designs reproducible pipelines, automates training and deploym
 
 </details>
 
-[⬆️ Back to Table of Contents](./README_AI_en.md)
+[⬆️ Back to Table of Contents](./README.md)

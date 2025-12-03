@@ -60,4 +60,4 @@ An NLP specialist preprocesses text, chooses tokenization and embedding strategi
 
 </details>
 
-[⬆️ Back to Table of Contents](./README_AI_en.md)
+[⬆️ Back to Table of Contents](./README.md)

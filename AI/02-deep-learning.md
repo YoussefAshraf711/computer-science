@@ -60,4 +60,4 @@ A DL specialist designs neural architectures (CNNs, RNNs, Transformers), configu
 
 </details>
 
-[⬆️ Back to Table of Contents](./README_AI_en.md)
+[⬆️ Back to Table of Contents](./README.md)

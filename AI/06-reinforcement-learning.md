@@ -53,4 +53,4 @@ An RL specialist formulates MDPs, selects and implements algorithms (DQN, PPO, S
 
 </details>
 
-[⬆️ Back to Table of Contents](./README_AI_en.md)
+[⬆️ Back to Table of Contents](./README.md)

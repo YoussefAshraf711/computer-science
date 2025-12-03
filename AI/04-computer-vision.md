@@ -60,4 +60,4 @@ A CV specialist acquires and annotates visual data, trains and fine-tunes models
 
 </details>
 
-[⬆️ Back to Table of Contents](./README_AI_en.md)
+[⬆️ Back to Table of Contents](./README.md)

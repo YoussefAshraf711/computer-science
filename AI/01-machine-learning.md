@@ -70,4 +70,4 @@ The ML specialist frames problems as predictive or descriptive tasks, collects a
 
 </details>
 
-[⬆️ Back to Table of Contents](./README_AI_en.md)
+[⬆️ Back to Table of Contents](./README.md)

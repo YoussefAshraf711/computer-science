@@ -1,4 +1,4 @@
-# AI Guide — README
+# 🤖 Artificial Intelligence
 
 > **Languages:** [English](README.md) | [العربية](README_ar.md)
 
