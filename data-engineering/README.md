@@ -1,43 +1,45 @@
-# 🛡️ Cybersecurity
+# 🧱 Data Engineering
 
 > **Languages:** [English](README.md) | [العربية](README_ar.md)
 
-Welcome to the **Cybersecurity** track! Learn how to protect systems, networks, and programs from digital attacks.
+Welcome to the **Data Engineering** track! Learn to design and build systems for collecting, storing, and analyzing data at scale.
 
 ## 🗺️ Roadmap
 
 ```mermaid
 graph TD
-    Sec[Cybersecurity] --> Fund[Fundamentals]
-    Sec --> NetSec[Network Security]
-    Sec --> AppSec[App Security]
-    Sec --> Ops[Security Operations]
+    DE[Data Engineering] --> Lang[Languages]
+    DE --> DB[Databases]
+    DE --> Pipe[Pipelines]
+    DE --> Big[Big Data]
 
-    Fund --> OS[OS Security]
-    Fund --> Crypto[Cryptography]
+    Lang --> Py[Python]
+    Lang --> Scala
+    Lang --> SQL
 
-    NetSec --> Fire[Firewalls]
-    NetSec --> VPN
-    NetSec --> IDS[IDS/IPS]
+    DB --> Rel["Relational (Postgres)"]
+    DB --> NoSQL["NoSQL (Mongo/Cassandra)"]
+    DB --> WH["Warehousing (Snowflake)"]
 
-    AppSec --> Web[Web Vulnerabilities]
-    AppSec --> Code[Secure Coding]
+    Pipe --> Air[Airflow]
+    Pipe --> Kafka
+    Pipe --> ETL
 
-    Ops --> Inc[Incident Response]
-    Ops --> Foren[Forensics]
-    Ops --> Pen[Penetration Testing]
+    Big --> Spark
+    Big --> Hadoop
+    Big --> Cloud[AWS/GCP/Azure]
 ```
 
 ## 📚 Core Content
 
-- **[Cybersecurity Guide (English)](cybersecurity.md)**
-- **[دليل الأمن السيبراني (العربية)](cybersecurity_ar.md)**
+- **[Data Engineering Guide (English)](data-engineering.md)**
+- **[دليل هندسة البيانات (العربية)](data-engineering_ar.md)**
 
 ## 🛠️ Projects
 
-- **Keylogger**: Build a simple keylogger (for educational purposes) to understand how it works.
-- **Packet Sniffer**: Create a tool to capture and analyze network traffic.
-- **Vulnerability Scanner**: Write a script to scan a network for open ports and vulnerabilities.
+- **ETL Pipeline**: Build a pipeline to extract data from an API, transform it, and load it into a database.
+- **Data Warehouse**: Design a schema and populate a data warehouse.
+- **Real-time Streaming**: Process a stream of data using Kafka and Spark.
 
 ---
 
