@@ -99,5 +99,5 @@ Project: Build a model to predict customer churn.
 
 </details>
 
-[⬆️ Back to Table of Contents](../README.md)
+[⬆️ Back to Table of Contents](README.md)
 
