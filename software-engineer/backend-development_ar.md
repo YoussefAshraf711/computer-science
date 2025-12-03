@@ -1,4 +1,4 @@
-[English](./03-backend-development.md)
+[English](./backend-development.md)
 
 # <a name="-3-تطوير-الواجهات-الخلفية-backend-development"></a>⚙️ الفصل 3: تطوير الواجهات الخلفية (Backend Development)
 
@@ -115,4 +115,4 @@
 
 </details>
 
-[⬆️ العودة إلى الفهرس](README_AR.md)
+[⬆️ العودة إلى الفهرس](README_ar.md)

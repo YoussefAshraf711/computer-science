@@ -1,4 +1,4 @@
-[English](./02-frontend-development.md)
+[English](./frontend-development.md)
 
 # <a name="-2-تطوير-الواجهات-الأمامية-frontend-development"></a>🖼️ الفصل 2: تطوير الواجهات الأمامية (Frontend Development)
 
@@ -122,4 +122,4 @@
 
 </details>
 
-[⬆️ العودة إلى الفهرس](README_AR.md)
+[⬆️ العودة إلى الفهرس](README_ar.md)

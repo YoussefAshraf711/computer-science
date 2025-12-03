@@ -1,4 +1,4 @@
-[العربي](./02-frontend-development_ar.md)
+[العربي](./frontend-development_ar.md)
 
 # <a name="-2-frontend-development"></a>🖼️ Chapter 2: Frontend Development
 

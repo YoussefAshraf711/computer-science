@@ -1,4 +1,4 @@
-[English](./05-game-development.md)
+[English](./game-development.md)
 
 # <a name="-5-تطوير-الألعاب-game-development"></a>🎮 الفصل 5: تطوير الألعاب (Game Development)
 
@@ -119,4 +119,4 @@
 
 </details>
 
-[⬆️ العودة إلى الفهرس](README_AR.md)
+[⬆️ العودة إلى الفهرس](README_ar.md)
