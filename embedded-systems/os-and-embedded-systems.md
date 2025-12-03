@@ -104,5 +104,5 @@ Hardware: ESP32 microcontroller, DHT11 temperature sensor, and a Relay module to
 
 </details>
 
-[⬆️ Back to Table of Contents](../README.md)
+[⬆️ Back to Table of Contents](README.md)
 
