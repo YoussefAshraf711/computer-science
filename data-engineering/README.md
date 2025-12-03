@@ -1,45 +1,43 @@
-# 🧱 Data Engineering
+# 🛡️ Cybersecurity
 
 > **Languages:** [English](README.md) | [العربية](README_ar.md)
 
-Welcome to the **Data Engineering** track! Learn to design and build systems for collecting, storing, and analyzing data at scale.
+Welcome to the **Cybersecurity** track! Learn how to protect systems, networks, and programs from digital attacks.
 
 ## 🗺️ Roadmap
 
 ```mermaid
 graph TD
-    DE[Data Engineering] --> Lang[Languages]
-    DE --> DB[Databases]
-    DE --> Pipe[Pipelines]
-    DE --> Big[Big Data]
+    Sec[Cybersecurity] --> Fund[Fundamentals]
+    Sec --> NetSec[Network Security]
+    Sec --> AppSec[App Security]
+    Sec --> Ops[Security Operations]
 
-    Lang --> Py[Python]
-    Lang --> Scala
-    Lang --> SQL
+    Fund --> OS[OS Security]
+    Fund --> Crypto[Cryptography]
 
-    DB --> Rel[Relational (Postgres)]
-    DB --> NoSQL[NoSQL (Mongo/Cassandra)]
-    DB --> WH[Warehousing (Snowflake)]
+    NetSec --> Fire[Firewalls]
+    NetSec --> VPN
+    NetSec --> IDS[IDS/IPS]
 
-    Pipe --> Air[Airflow]
-    Pipe --> Kafka
-    Pipe --> ETL
+    AppSec --> Web[Web Vulnerabilities]
+    AppSec --> Code[Secure Coding]
 
-    Big --> Spark
-    Big --> Hadoop
-    Big --> Cloud[AWS/GCP/Azure]
+    Ops --> Inc[Incident Response]
+    Ops --> Foren[Forensics]
+    Ops --> Pen[Penetration Testing]
 ```
 
 ## 📚 Core Content
 
-- **[Data Engineering Guide (English)](data-engineering.md)**
-- **[دليل هندسة البيانات (العربية)](data-engineering_ar.md)**
+- **[Cybersecurity Guide (English)](cybersecurity.md)**
+- **[دليل الأمن السيبراني (العربية)](cybersecurity_ar.md)**
 
 ## 🛠️ Projects
 
-- **ETL Pipeline**: Build a pipeline to extract data from an API, transform it, and load it into a database.
-- **Data Warehouse**: Design a schema and populate a data warehouse.
-- **Real-time Streaming**: Process a stream of data using Kafka and Spark.
+- **Keylogger**: Build a simple keylogger (for educational purposes) to understand how it works.
+- **Packet Sniffer**: Create a tool to capture and analyze network traffic.
+- **Vulnerability Scanner**: Write a script to scan a network for open ports and vulnerabilities.
 
 ---
 
